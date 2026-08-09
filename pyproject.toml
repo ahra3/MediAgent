@@ -13,6 +13,7 @@ dependencies = [
     "langgraph>=1.2.10",
     "polars>=1.43.2",
     "pydantic>=2.13.4",
+    "pydantic-settings>=2.15.0",
     "python-dotenv>=1.2.2",
     "rank-bm25>=0.2.2",
     "sentence-transformers>=5.7.0",
