@@ -27,6 +27,7 @@ class GuidelineMatch(BaseModel):
     relevance_score: float = Field(
         description="Relevance score from the reranker (0.0 to 1.0, higher = more relevant)"
     )
+    matched_query: str = ""
 
 
 class RAGResult(BaseModel):
