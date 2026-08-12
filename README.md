@@ -19,13 +19,7 @@ MediAgent is implemented as a stateful directed graph using LangGraph, enabling 
 
 <img width="1766" height="1100" alt="system_architecture" src="https://github.com/user-attachments/assets/b590334d-0bb8-4113-9130-f76a4745c991" />
 
-**Pipeline flow:**
 
-```
-START → Patient Intake Agent → DDI Agent → [Critical? → HITL DDI Review]
-      → Clinical Guidelines RAG Agent → HITL Pre-Synthesis Review
-      → Synthesis Agent → END
-```
 
 **Patient Intake Agent.** Accepts unstructured clinical text (admission notes, discharge summaries) and produces a validated `PatientProfile` containing demographics, conditions, medications with dosages, allergies, and vital signs. Extraction failures trigger automatic re-prompting with the validation error message.
 
