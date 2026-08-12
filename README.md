@@ -181,3 +181,14 @@ If you use MediAgent in your research, please cite:
   year      = {2026}
 }
 ```
+
+The evaluation dataset was derived from the [MTSamples](https://mtsamples.com/) corpus. If you use the evaluation data, please also acknowledge MTSamples:
+
+```bibtex
+@misc{mtsamples,
+  title = {Medical Transcription Samples},
+  author = {MTSamples},
+  year = {2024},
+  howpublished = {\url{https://mtsamples.com/}}
+}
+```
