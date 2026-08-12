@@ -16,8 +16,8 @@ The system was designed with production-grade engineering practices:
 
 MediAgent is implemented as a stateful directed graph using LangGraph, enabling cyclic workflows, persistent state, and native HITL interrupt support.
 
-<!-- Replace the path below with the actual architecture diagram once attached -->
-<!-- ![System Architecture](docs/architecture.png) -->
+
+[System Architecture](system_architecture.png)
 
 **Pipeline flow:**
 
