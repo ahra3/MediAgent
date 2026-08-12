@@ -125,7 +125,7 @@ def build_graph() -> StateGraph:
     graph.add_edge("intake_agent", "ddi_agent")
 
     # Conditional: high/critical risk → HITL review, else → skip to RAG
-    graph.add_conditional_edges("ddi_agent", route_after_ddi)
+    graph.add_conditional_edges("ddi_agent", route_after_ddi,{'hitl_ddi_review':'hitl_ddi_review', 'guidelines_rag_agent':'guidelines_rag_agent'})
 
     # After HITL DDI review → continue to guidelines
     graph.add_edge("hitl_ddi_review", "guidelines_rag_agent")

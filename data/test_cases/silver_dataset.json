@@ -1,0 +1,1043 @@
+[
+    {
+        "case_id": "SILVER-001",
+        "description": "Dentistry",
+        "raw_text": "CHIEF COMPLAINT: , Jaw pain.,HISTORY OF PRESENT ILLNESS:  ,This is a 58-year-old male who started out having toothache in the left lower side of the mouth that is now radiating into his jaw and towards his left ear.  Triage nurse reported that he does not believe it is his tooth because he has regular dental appointments, but has not seen a dentist since this new toothache began.  The patient denies any facial swelling.  No headache.  No swelling to the throat.  No sore throat.  No difficulty swallowing liquids or solids.  No neck pain.  No lymph node swelling.  The patient denies any fever or chills.  Denies any other problems or complaints.,REVIEW OF SYSTEMS:,  CONSTITUTIONAL:  No fever or chills.  No fatigue or weakness.  HEENT:  No headache.  No neck pain.  No eye pain or vision change.  No rhinorrhea.  No sinus congestion, pressure, or pain.  No sore throat.  No throat swelling.  The patient does have the toothache on the left lower side that radiates towards his left ear as previously described.  The patient does not have ear pain or hearing change.  No pressure in the ear.  CARDIOVASCULAR:  No chest pain.  RESPIRATIONS:  No shortness of breath.  GASTROINTESTINAL:  No nausea or vomiting.  No abdominal pain.  MUSCULOSKELETAL:  No back pain.  SKIN:  No rashes or lesions.  NEUROLOGIC:  No vision or hearing change.  No speech change.  HEMATOLOGIC/LYMPHATIC:  No lymph node swelling.,PAST MEDICAL HISTORY: , None.,PAST SURGICAL HISTORY:,  None.,CURRENT MEDICATIONS: , None.,ALLERGIES: , NO KNOWN DRUG ALLERGIES.,SOCIAL HISTORY: , The patient smokes marijuana.  The patient does not smoke cigarettes.,PHYSICAL EXAMINATION: , VITAL SIGNS:  Temperature 98.2 oral, blood pressure is 168/84, pulse is 87, respirations 16, and oxygen saturation is 100% on room air and interpreted as normal.  CONSTITUTIONAL:  The patient is well nourished, well developed.  The patient appears to be healthy.  The patient is calm, comfortable in no acute distress, looks well.  The patient is pleasant and cooperative.  HEENT:  Head is atraumatic, normocephalic, and nontender.  Eyes are normal with clear cornea and conjunctivae bilaterally.  Nose, normal without rhinorrhea or audible congestion.  There is no tenderness over the sinuses.  Ears are normal without any sign of infection.  No erythema or swelling of the canals.  Tympanic membranes are intact and normal without any erythema, bulging, air fluid levels, or bubbles behind it.  MOUTH:  The patient has a dental fracture at tooth #18.  The patient states that the fracture is a couple of months old.  The patient does not have any obvious dental caries.  The gums are normal without any erythema, swelling, or evidence of infection.  There is no fluctuance or suggestion of abscess.  There is slight tenderness of the tooth #18.  The oropharynx is normal without any sign of infection.  There is no erythema, exudate, lesion, or swelling.  Mucous membranes are moist.  Floor of the mouth is normal without any tenderness or swelling.  No suggestion of abscess.  There is no pre or post auricular lymphadenopathy either.  NECK:  Supple.  Nontender.  Full range of motion.  No meningismus.  No cervical lymphadenopathy.  No JVD.  No carotid artery or vertebral artery bruits.  CARDIOVASCULAR:  Heart is regular rate and rhythm without murmur, rub, or gallop.  RESPIRATIONS:  Clear to auscultation bilaterally.  No shortness of breath.  GASTROINTESTINAL:  Abdomen is normal and nontender.  MUSCULOSKELETAL:  No abnormalities are noted to the back, arms, or legs.  The patient has normal use of the extremities.  SKIN:  No rashes or lesions.  NEUROLOGIC:  Cranial nerves II through XII are intact.  The patient has normal speech and normal ambulation.  PSYCHIATRIC:  The patient is alert and oriented x4.  Normal mood and affect.  No evidence of clinical intoxification.  HEMATOLOGIC/LYMPHATIC:  No lymphadenitis is palpated.,DIAGNOSES:,1.  ACUTE LEFT JAW PAIN.,2.  #18 DENTAL FRACTURE, WHICH IS AN ELLIS TYPE II FRACTURE.,3.  ELEVATED BLOOD PRESSURE.,CONDITION UPON DISPOSITION: , Stable.,DISPOSITION:,  Home.,PLAN: , We will have the patient follow up with his dentist Dr. X in three to five days for reevaluation.  The patient was encouraged to take Motrin 400 mg q.6h. as needed for pain.  The patient was given prescription for Vicodin for any breakthrough or uncontrolled pain.  He was given precautions for drowsiness and driving with the use of this medication.  The patient was also given a prescription for pen V.  The patient was given discharge instructions on toothache and asked to return to emergency room should he have any worsening of his condition, develop any other problems or symptoms of concern.",
+        "expected_output": {
+            "medications_extracted": [
+                "Motrin",
+                "Vicodin",
+                "pen V"
+            ],
+            "conditions": [
+                "Acute left jaw pain",
+                "Dental fracture",
+                "Elevated blood pressure"
+            ],
+            "expected_ddi": [
+                {
+                    "drugs": [
+                        "Motrin",
+                        "Vicodin"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "case_id": "SILVER-002",
+        "description": "Radiology",
+        "raw_text": "FINDINGS:,Normal foramen magnum.,Normal brainstem-cervical cord junction. There is no tonsillar ectopia. Normal clivus and craniovertebral junction. Normal anterior atlantoaxial articulation.,C2-3: There is disc desiccation but no loss of disc space height, disc displacement, endplate spondylosis or uncovertebral joint arthrosis. Normal central canal and intervertebral neural foramina.,C3-4: There is disc desiccation with a posterior central disc herniation of the protrusion type. The small posterior central disc protrusion measures 3 x 6mm (AP x transverse) in size and is producing ventral thecal sac flattening. CSF remains present surrounding the cord. The residual AP diameter of the central canal measures 9mm. There is minimal right-sided uncovertebral joint arthrosis but no substantial foraminal compromise.,C4-5: There is disc desiccation, slight loss of disc space height with a right posterior lateral pre-foraminal disc osteophyte complex with right-sided uncovertebral and apophyseal joint arthrosis. The disc osteophyte complex measures approximately 5mm in its AP dimension. There is minimal posterior annular bulging measuring approximately 2mm. The AP diameter of the central canal has been narrowed to 9mm. CSF remains present surrounding the cord. There is probable radicular impingement upon the exiting right C5 nerve root.,C5-6: There is disc desiccation, moderate loss of disc space height with a posterior central disc herniation of the protrusion type. The disc protrusion measures approximately 3 x 8mm (AP x transverse) in size. There is ventral thecal sac flattening with effacement of the circumferential CSF cleft. The residual AP diameter of the central canal has been narrowed to 7mm. Findings indicate a loss of the functional reserve of the central canal but there is no cord edema. There is bilateral uncovertebral and apophyseal joint arthrosis with moderate foraminal compromise.,C6-7: There is disc desiccation, mild loss of disc space height with 2mm of posterior annular bulging. There is bilateral uncovertebral and apophyseal joint arthrosis (left greater than right) with probable radicular impingement upon the bilateral exiting C7 nerve roots.,C7-T1, T1-2: There is disc desiccation with no disc displacement. Normal central canal and intervertebral neural foramina.,T3-4: There is disc desiccation with minimal 2mm posterior annular bulging but normal central canal and CSF surrounding the cord.,IMPRESSION:,Multilevel degenerative disc disease with uncovertebral joint arthrosis with foraminal compromise as described above.,C3-4 posterior central disc herniation of the protrusion type but no cord impingement.,C4-5 right posterior lateral disc osteophyte complex with right-sided uncovertebral and apophyseal joint arthrosis with probable radicular impingement upon the right C5 nerve root.,C5-6 degenerative disc disease with a posterior central disc herniation of the protrusion type producing borderline central canal stenosis with effacement of the circumferential CSF cleft indicating a limited functional reserve of the central canal.,C6-7 degenerative disc disease with annular bulging and osseous foraminal compromise with probable impingement upon the bilateral exiting C7 nerve roots.,T3-4 degenerative disc disease with posterior annular bulging.",
+        "expected_output": {
+            "medications_extracted": [],
+            "conditions": [
+                "degenerative disc disease",
+                "uncovertebral joint arthrosis",
+                "disc herniation",
+                "central canal stenosis",
+                "radicular impingement",
+                "apophyseal joint arthrosis",
+                "disc desiccation"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-003",
+        "description": "Cardiovascular / Pulmonary",
+        "raw_text": "We discovered new T-wave abnormalities on her EKG.  There was of course a four-vessel bypass surgery in 2001.  We did a coronary angiogram.  This demonstrated patent vein grafts and patent internal mammary vessel and so there was no obvious new disease.,She may continue in the future to have angina and she will have nitroglycerin available for that if needed.,Her blood pressure has been elevated and so instead of metoprolol, we have started her on Coreg 6.25 mg b.i.d.  This should be increased up to 25 mg b.i.d. as preferred antihypertensive in this lady's case.  She also is on an ACE inhibitor.,So her discharge meds are as follows:,1.  Coreg 6.25 mg b.i.d.,2.  Simvastatin 40 mg nightly.,3.  Lisinopril 5 mg b.i.d.,4.  Protonix 40 mg a.m.,5.  Aspirin 160 mg a day.,6.  Lasix 20 mg b.i.d.,7.  Spiriva puff daily.,8.  Albuterol p.r.n. q.i.d.,9.  Advair 500/50 puff b.i.d.,10.  Xopenex q.i.d. and p.r.n.,I will see her in a month to six weeks.  She is to follow up with Dr. X before that.",
+        "expected_output": {
+            "medications_extracted": [
+                "nitroglycerin",
+                "Coreg",
+                "Simvastatin",
+                "Lisinopril",
+                "Protonix",
+                "Aspirin",
+                "Lasix",
+                "Spiriva",
+                "Albuterol",
+                "Advair",
+                "Xopenex"
+            ],
+            "conditions": [
+                "T-wave abnormalities",
+                "coronary artery disease",
+                "angina",
+                "hypertension"
+            ],
+            "expected_ddi": [
+                {
+                    "drugs": [
+                        "Coreg",
+                        "Lisinopril"
+                    ]
+                },
+                {
+                    "drugs": [
+                        "Simvastatin",
+                        "Aspirin"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "case_id": "SILVER-004",
+        "description": "Gastroenterology",
+        "raw_text": "PREOPERATIVE DIAGNOSIS: , Acute acalculous cholecystitis.,POSTOPERATIVE DIAGNOSIS:,  Acute hemorrhagic cholecystitis.,PROCEDURE PERFORMED: , Open cholecystectomy.,ANESTHESIA: , Epidural with local.,COMPLICATIONS: , None.,DISPOSITION: , The patient tolerated the procedure well and was transferred to recovery in stable condition.,SPECIMEN:  ,Gallbladder.,BRIEF HISTORY:  ,The patient is a 73-year-old female who presented to ABCD General Hospital on 07/23/2003 secondary to a fall at home from which the patient suffered a right shoulder as well as hip fracture.  The patient subsequently went to the operating room on 07/25/2003 for a right hip hemiarthroplasty per the Orthopedics Department.  Subsequently, the patient was doing well postoperatively, however, the patient does have severe O2 and steroid-dependent COPD and at an extreme risk for any procedure.  The patient began developing abdominal pain over the course of the next several days and a consultation was requested on 08/07/2003 for surgical evaluation for upper abdominal pain.  During the evaluation, the patient was found to have an acute acalculous cholecystitis in which nonoperative management was opted for and on 08/08/03, the patient underwent a percutaneous cholecystostomy tube placement to drain the gallbladder.  The patient did well postdrainage.  The patient's laboratory values and biliary values returned to normal and the patient was planned for a removal of the tube with 48 hours of the tubing clamp.  However, once the tube was removed, the patient re-obstructed with recurrent symptoms and a second tube was needed to be placed; this was done on 08/16/2003.  A HIDA scan had been performed, which showed no cystic duct obstruction.  A tube cholecystogram was performed, which showed no cystic or common duct obstruction.  There was abnormal appearance of the gallbladder, however, the pathway was patent.  Thus after failure of two nonoperative management therapies, extensive discussions were made with the family and the patient's only option was to undergo a cholecystectomy.  Initial thoughts were to do a laparoscopic cholecystectomy, however, with the patient's severe COPD and risk for ventilator management, the options were an epidural and an open cholecystectomy under local was made and to be performed.,INTRAOPERATIVE FINDINGS:  ,The patient's gallbladder had some patchy and necrosis areas.  There were particular changes on the serosal surface as well as on the mucosal surface with multiple clots within the gallbladder.  The patient also had no plane between the gallbladder and the liver bed.,OPERATIVE PROCEDURE: , After informed written consent, risks and benefits of the procedure were explained to the patient and discussed with the patient's family.  The patient was brought to the operating room after an epidural was performed per anesthesia.  Local anesthesia was given with 1% lidocaine.  A paramedian incision was made approximately 5 cm in length with a #15 blade scalpel.  Next, hemostasis was obtained using electro Bovie cautery.  Dissection was carried down transrectus in the midline to the posterior rectus fascia, which was grasped with hemostats and entered with a #10 blade scalpel.  Next, Metzenbaum scissors were used to extend the incision and the abdomen was entered .  The gallbladder was immediately visualized and brought up into view, grasped with two ring clamps elevating the biliary tree into view.  Dissection with a ______ was made to identify the cystic artery and cystic duct, which were both easily identified.  The cystic artery was clipped, two distal and one proximal to the gallbladder cutting between with Metzenbaum scissors.  The cystic duct was identified.  A silk tie #3-0 silk was placed one distal and one proximal with #3-0 silk and then cutting in between with a Metzenbaum scissors.  The gallbladder was then removed from the liver bed using electro Bovie cautery.  A plane was created.  The hemostasis was obtained using the electro Bovie cautery as well as some Surgicel.  The gallbladder was then removed as specimen, sent to pathology for frozen sections for diagnosis, of which the hemorrhagic cholecystitis was diagnosed on frozen sections.  Permanent sections are still pending.  The remainder of the fossa was hemostatic with the Surgicel and attention was next made to closing the abdomen.  The peritoneum as well as posterior rectus fascia was approximated with a running #0 Vicryl suture and then the anterior rectus fascia was closed in interrupted figure-of-eight #0 Vicryl sutures.  Skin staples were used on the skin and sterile dressings were applied and the patient was transferred to recovery in stable condition.",
+        "expected_output": {
+            "medications_extracted": [
+                "steroid",
+                "lidocaine"
+            ],
+            "conditions": [
+                "Acute acalculous cholecystitis",
+                "Acute hemorrhagic cholecystitis",
+                "Right shoulder fracture",
+                "Hip fracture",
+                "COPD"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-005",
+        "description": "Discharge Summary",
+        "raw_text": "ADMITTING DIAGNOSIS:,  Posttraumatic AV in right femoral head.,DISCHARGE DIAGNOSIS:,  Posttraumatic AV in right femoral head.,SECONDARY DIAGNOSES PRIOR TO HOSPITALIZATION:,1.  Opioid use.,2.  Right hip surgery.,3.  Appendectomy.,4.  Gastroesophageal reflux disease.,5.  Hepatitis diagnosed by liver biopsy.,6.  Blood transfusion.,6.  Smoker.,7.  Trauma with multiple orthopedic procedures.,8.  Hip arthroscopy.,POSTOP COMORBIDITIES: , Postop acute blood loss anemia requiring transfusion and postop pain.,PROCEDURES DURING THIS HOSPITALIZATION:,  Right total hip arthroplasty and removal of hardware.,CONSULTS:,  Acute pain team consult.,DISPOSITION: , Home.,HISTORY OF PRESENT ILLNESS AND HOSPITAL COURSE:,  For details, please refer to clinic notes and OP notes.  In brief, the patient is a 47-year-old female with a posttraumatic AV in the right femoral head.  She came in consult with Dr. X who after reviewing the clinical and radiological findings recommended she undergo a right total hip arthroplasty and removal of old hardware.  After being explained the risks, benefits, alternative options, and possible outcomes of surgery, she was agreeable and consented to proceed and therefore on the day of her admission, she was sent to the operating room where she underwent a right total hip arthroplasty and removal of hardware without any complications.  She was then transferred to PACU for recovery and postop orthopedic floor for convalescence, physical therapy, and discharge planning.  DVT prophylaxis was initiated with Lovenox.  Postop pain was adequately managed with the aid of Acute Pain team.  Postop acute blood loss anemia was treated with blood transfusions to an adequate level of hemoglobin.  Physical therapy and occupational therapy were initiated and continued to work with her towards discharge clearance on the day of her discharge.,DISPOSITION:,  Home.  On the day of her discharge, she was afebrile, vital signs were stable.  She was in no acute distress.  Her right hip incision was clean, dry, and intact.  Extremity was warm and well perfused.  Compartments were soft.  Capillary refill less than two seconds.  Distal pulses were present.,PREDISCHARGE LABORATORY FINDINGS: , White count of 10.9, hemoglobin of 9.5, and BMP is pending.,DISCHARGE INSTRUCTIONS: , Continue diet as before.,ACTIVITY: , Weightbearing as tolerated in the right lower extremity as instructed.  Do not lift, drive, move furniture, do strenuous activity for six weeks.  Call Dr. X if there is increased temperature greater than 101.5, increased redness, swelling, drainage, increased pain that is not relieved by current pain regimen as per postop orthopedic discharge instruction sheet.,FOLLOW-UP APPOINTMENT:  Follow up with Dr. X in two weeks.",
+        "expected_output": {
+            "medications_extracted": [
+                "Lovenox"
+            ],
+            "conditions": [
+                "Posttraumatic AV in right femoral head",
+                "Opioid use",
+                "Right hip surgery",
+                "Appendectomy",
+                "Gastroesophageal reflux disease",
+                "Hepatitis",
+                "Smoker",
+                "Trauma",
+                "Hip arthroscopy",
+                "Acute blood loss anemia",
+                "Postop pain"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-006",
+        "description": "Neurology",
+        "raw_text": "CC:, Headache,HX: ,This 16 y/o RHF was in good health, until 11:00PM, the evening of 11/27/87, when she suddenly awoke from sleep with severe headache. Her parents described her as holding her head between her hands. She had no prior history of severe headaches. 30 minutes later she felt nauseated and vomited. The vomiting continued every 30 minutes and she developed neck stiffness. At 2:00AM on 11/28/97, she got up to go to the bathroom and collapsed in her mother's arms. Her mother noted she appeared weak on the left side. Shortly after this she experienced fecal and urinary incontinence. She was taken to a local ER and transferred to UIHC.,PMH/FHX/SHX:, completely unremarkable FHx. Has boyfriend and is sexually active.,Denied drug/ETOH/Tobacco use.,MEDS:, Oral Contraceptive pill QD.,EXAM:, BP152/82 HR74 RR16 T36.9C,MS: Somnolent and difficult to keep awake. Prefer to lie on right side because of neck pain/stiffness. Answers appropriately though when questioned.,CN: No papilledema noted. Pupils 4/4 decreasing to 2/2. EOM Intact. Face: ?left facial weakness. The rest of the CN exam was unremarkable.,Motor: Upper extremities: 5/3 with left pronator drift. Lower extremities: 5/4 with LLE weakness evident throughout.,Coordination: left sided weakness evident.,Station: left pronator drift.,Gait: left hemiparesis.,Reflexes: 2/2 throughout. No clonus. Plantars were flexor bilaterally.,Gen Exam: unremarkable.,COURSE: ,The patient underwent emergent CT Brain. This revealed a perimesencephalic subarachnoid hemorrhage and contrast enhancing structures in the medial aspect of the parietotemporal region. She then underwent a 4-vessel cerebral angiogram. This study was unremarkable except for delayed transit of the contrast material through the vascular system of the brain and poor opacification of the straight sinus. This suggested straight sinus thromboses. MRI Brain was then done; this was unremarkable and did not show sign of central venous thrombosis. CBC/Blood Cx/ESR/PT/PTT/GS/CSF Cx/ANA were negative.,Lumbar puncture on 12/1/87 revealed an opening pressure of 55cmH20, RBC18550, WBC25, 18neutrophils, 7lymphocytes, Protein25mg/dl, Glucose47mg/dl, Cx negative.,The patient was assumed to have had a SAH secondary to central venous thrombosis due to oral contraceptive use. She recovered well, but returned to Neurology at age 32 for episodic blurred vision and lightheadedness. EEG was compatible with seizure tendency (right greater than left theta bursts from the mid-temporal regions), and she was recommended an anticonvulsant which she refused.",
+        "expected_output": {
+            "medications_extracted": [
+                "Oral Contraceptive pill"
+            ],
+            "conditions": [
+                "Headache",
+                "nausea",
+                "vomiting",
+                "neck stiffness",
+                "fecal incontinence",
+                "urinary incontinence",
+                "left facial weakness",
+                "left pronator drift",
+                "LLE weakness",
+                "left hemiparesis",
+                "perimesencephalic subarachnoid hemorrhage",
+                "straight sinus thromboses",
+                "central venous thrombosis",
+                "seizure tendency"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-007",
+        "description": "Surgery",
+        "raw_text": "PREOPERATIVE DIAGNOSES:,1.  Acute pain.,2.  Fever postoperatively.,POSTOPERATIVE DIAGNOSIS:,1.  Acute pain.,2.  Fever postoperatively.,3.  Hemostatic uterine perforation.,4.  No bowel or vascular trauma.,PROCEDURE PERFORMED:,1.  Diagnostic laparoscopy.,2.  Rigid sigmoidoscopy by Dr. X.,ANESTHESIA: , General endotracheal.,COMPLICATIONS: , None.,ESTIMATED BLOOD LOSS: , Scant.,SPECIMEN:,  None.,INDICATIONS:  ,This is a 17-year-old African-American female, gravida-1, para-1, and had a hysteroscopy and dilation curettage on 09/05/03.  The patient presented later that evening after having increasing abdominal pain, fever and chills at home with a temperature up to 101.2.  The patient denied any nausea, vomiting or diarrhea.  She does complain of some frequent urination.  Her vaginal bleeding is minimal.,FINDINGS: , On bimanual exam, the uterus is approximately 6-week size, anteverted, and freely mobile with no adnexal masses appreciated.  On laparoscopic exam, there is a small hemostatic perforation noted on the left posterior aspect of the uterus.  There is approximately 40 cc of serosanguineous fluid in the posterior cul-de-sac.  The bilateral tubes and ovaries appeared normal.  There is no evidence of endometriosis in the posterior cul-de-sac or along the bladder flap.  There is no evidence of injury to the bowel or pelvic sidewall.  The liver margin, gallbladder and remainder of the bowel including the appendix appeared normal.,PROCEDURE: , After consent was obtained, the patient was taken to the Operating Room where general anesthetic was administered.  The patient was placed in the dorsal lithotomy position and prepped and draped in the normal sterile fashion.  A sterile speculum was placed in the patient's vagina and the anterior lip of the cervix was grasped with a vulsellum tenaculum.  The uterine manipulator was then placed into the patient's cervix and the vulsellum tenaculum and sterile speculum were removed.  Gloves were changed and attention was then turned to the abdomen where approximately 10 mm transverse infraumbilical incision was made.  Veress needle was placed through this incision and the gas turned on.  When good flow and low abdominal pressures were noted, the gas was turned up and the abdomen was allowed to insufflate.  A 11 mm trocar was then placed through this incision.  The camera was placed with the above findings noted.  A 5 mm step trocar was placed 2 cm superior to the pubic bone and along the midline.  A blunt probe was placed through this trocar to help for visualization of the pelvic and abdominal organs.  The serosanguineous fluid of the cul-de-sac was aspirated and the pelvis was copiously irrigated with sterile saline.  At this point, Dr. X was consulted.  He performed a rigid sigmoidoscopy, please see his dictation for further details.  There does not appear to be any evidence of colonic injury.  The saline in the pelvis was then suctioned out using Nezhat-Dorsey.  All instruments were removed.  The 5 mm trocar was removed under direct visualization with excellent hemostasis noted.  The camera was removed and the abdomen was allowed to desufflate.  The 11 mm trocar introducer was replaced and the trocar removed.  The skin was then closed with #4-0 undyed Vicryl in a subcuticular fashion.  Approximately 10 cc of 0.25% Marcaine was injected into the incision sites for postoperative pain relief.  Steri-Strips were then placed across the incision.  The uterine manipulator was then removed from the patient's cervix with excellent hemostasis noted.  The patient tolerated the procedure well.  Sponge, lap, and needle counts were correct at the end of the procedure.  The patient was taken to the recovery room in satisfactory condition.,She will be followed immediately postoperatively within the hospital and started on IV antibiotics.",
+        "expected_output": {
+            "medications_extracted": [
+                "Marcaine",
+                "IV antibiotics"
+            ],
+            "conditions": [
+                "Acute pain",
+                "Fever",
+                "Hemostatic uterine perforation"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-008",
+        "description": "Nephrology",
+        "raw_text": "ADMITTING DIAGNOSES:,  Left renal cell carcinoma, left renal cyst.,DISCHARGE DIAGNOSIS:,  Left renal cell carcinoma, left renal cyst.,SECONDARY DIAGNOSES:,1.  Chronic obstructive pulmonary disease.,2.  Coronary artery disease.,PROCEDURES: , Robotic-Assisted laparoscopic left renal cyst decortication and cystoscopy.,HISTORY OF PRESENT ILLNESS: , Mr. ABC is a 70-year-old male who has been diagnosed with a left renal cell carcinoma with multiple renal cysts.  He has undergone MRI of the abdomen on June 18, 2008 revealing an enhancing mass of the upper pole of the left kidney consistent with his history of renal cell carcinoma.  Of note, there are no other enhancing solid masses seen on this MRI.  After discussion of multiple management strategies with the patient including:,1.  Left partial nephrectomy.,2.  Left radical nephrectomy.,3.  Left renal cyst decortication.  The patient is likely to undergo the latter procedure.,HOSPITAL COURSE:  ,The patient was admitted to undergo left renal cyst decortication as well as a cystoscopy.  Intraoperatively, approximately four enlarged renal cysts and six smaller renal cysts were initially removed.  The contents were aspirated and careful dissection of the cyst wall was performed.  Multiple specimens of the cyst wall were sent for pathology.  Approximately one liter of cystic fluid was drained during the procedure.  The renal bed was inspected for hemostasis, which appear to be adequate.  There were no complications with the procedure.  Single JP drain was left in place.  Additionally, the patient underwent flexible cystoscopy, which revealed no gross strictures or any other abnormalities in the penile nor prostatic urethra.  Furthermore, no gross lesions were encountered in the bladder.  The patient left OR with transfer to the PACU and subsequently to the hospital floor.,The patient's postoperative course was relatively uneventful.  His diet and activity were gradually advanced without complication.  On postoperative day #2, he was passing flatus and has had bowel movements.  His Jackson-Pratt drain was discontinued on postoperative day #3 that being the day of discharge.  His Foley catheter was removed on the morning of discharge and the patient subsequently passed the voiding trial without difficultly.  At the time of discharge, he was afebrile.  His vital signs indicated hemodynamic stability and he had no evidence of infection.  The patient was instructed to follow up with Dr. XYZ on 8/12/2008 at 1:50 p.m. and was given prescription for pain medications as well as laxative.,DISPOSITION: , To home.,DISCHARGE CONDITION:,  Good.,MEDICATIONS:  ,Please see attached medication list.,INSTRUCTIONS: , The patient was instructed to contact Dr. XYZ's office for fever greater than 101.5, intractable pain, nausea, vomiting, or any other concerns.,FOLLOWUP: , The patient will follow up with Dr. XYZ for a postoperative check on 08/12/2008 at 1:50 p.m. and he was made aware of this appointment.",
+        "expected_output": {
+            "medications_extracted": [],
+            "conditions": [
+                "Left renal cell carcinoma",
+                "Left renal cyst",
+                "Chronic obstructive pulmonary disease",
+                "Coronary artery disease"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-009",
+        "description": "Surgery",
+        "raw_text": "PROCEDURES:,1.  Release of ventral chordee.,2.  Circumcision.,3.  Repair of partial duplication of urethral meatus.,INDICATIONS: , The patient is an 11-month-old baby boy who presented for evaluation of a duplicated urethral meatus as well as ventral chordee and dorsal prepuce hooding.  He is here electively for surgical correction.,DESCRIPTION OF PROCEDURE: , The patient was brought back into operating room 35.  After successful induction of general endotracheal anesthetic, giving the patient, preoperative antibiotics and after completing a preoperative time out, the patient was prepped and draped in the usual sterile fashion.,A holding stitch was placed in the glans penis.  At this point, we probed both urethral meatus.  Using the Crede maneuver, we could see urine clearly coming out of the lower, the more ventral meatus.  At this point, we cannulated this with a 6-French hypospadias catheter.  We attempted to cannulate the dorsal opening, however, we were unsuccessful.  We then attempted to place lacrimal probes and were also unsuccessful indicating this was incomplete duplication.  At this point, we identified the band connecting both the urethral meatus and incised it with tenotomy scissors.  We sutured both meatus together such that there was one meatus at the normal position at the tip of the glans.,At this point, we made a circumcising incision around the penis and degloved the penis in its entirety relieving all chordee.  Once all the chordee had been adequately released, we turned our attention to the circumcision.  Excessive dorsal foreskin was removed from the skin and glans.  Mucosal cuts were reapproximated with interrupted 5-0 chromic suture.  Dermabond was placed over this and bacitracin was placed on this once dry.  This ended the procedure.  ,DRAINS:,  None.,ESTIMATED BLOOD LOSS: , Minimal.,URINE OUTPUT:  ,Unrecorded.,COMPLICATIONS: , None apparent.,DISPOSITION:  ,The patient will now go under the care of Dr. XYZ, Plastic Surgery, for excision of scalp hemangioma.",
+        "expected_output": {
+            "medications_extracted": [
+                "bacitracin"
+            ],
+            "conditions": [
+                "ventral chordee",
+                "duplicated urethral meatus",
+                "dorsal prepuce hooding",
+                "scalp hemangioma"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-010",
+        "description": "Cardiovascular / Pulmonary",
+        "raw_text": "PREOPERATIVE DIAGNOSES:,1.  Ventilator-dependent respiratory failure.,2.  Laryngeal edema.,POSTOPERATIVE DIAGNOSES:,1.  Ventilator-dependent respiratory failure.,2.  Laryngeal edema.,PROCEDURE PERFORMED: , Tracheostomy change.  A #6 Shiley with proximal extension was changed to a #6 Shiley with proximal extension.,INDICATIONS: , The patient is a 60-year-old Caucasian female who presented to ABCD General Hospital with exacerbation of COPD and CHF.  The patient had subsequently been taken to the operating room by Department of Otolaryngology and a direct laryngoscope was performed.  The patient was noted at that time to have transglottic edema.  Biopsies were taken.  At the time of surgery, it was decided that the patient required a tracheostomy for maintenance of continued ventilation and airway protection.  The patient is currently postop day #6 and appears to be unable to be weaned from ventilator at this time and may require prolonged ventricular support.  A decision was made to perform tracheostomy change.,DESCRIPTION OF PROCEDURE: , The patient was seen in the Intensive Care Unit.  The patient was placed in a supine position.  The neck was then extended.  The sutures that were previously in place in the #6 Shiley with proximal extension were removed.  The patient was preoxygenated to 100%.  After several minutes, the patient was noted to have a pulse oximetry of 100%.  The IV tubing that was supporting the patient's trache was then cut.  The tracheostomy tube was then suctioned.,The inner cannula was then removed from the tracheostomy and a nasogastric tube was placed down the lumen of the tracheostomy tube as a guidewire.  The tracheostomy tube was then removed over the nasogastric tube and the operative field was suctioned.  With the guidewire in place and with adequate visualization, a new #6 Shiley with proximal extension was then passed over the nasogastric tube guidewire and carefully inserted into the trachea.  The guidewire was then removed and the inner cannula was then placed into the tracheostomy.  The patient was then reconnected to the ventilator and was noted to have normal tidal volumes.  The patient had a tidal volume of 500 and was returning 500 cc to 510 cc.  The patient continued to saturate well with saturations 99%.  The patient appeared comfortable and her vital signs were stable.  A soft trache collar was then connected to the trachesotomy.  A drain sponge was then inserted underneath the new trache site.  The patient was observed for several minutes and was found to be in no distress and continued to maintain adequate saturations and continued to return normal tidal volumes.,COMPLICATIONS: , None.,DISPOSITION: , The patient tolerated the procedure well.  0.25% acetic acid soaks were ordered to the drain sponge every shift.",
+        "expected_output": {
+            "medications_extracted": [
+                "acetic acid"
+            ],
+            "conditions": [
+                "Ventilator-dependent respiratory failure",
+                "Laryngeal edema",
+                "COPD",
+                "CHF",
+                "transglottic edema"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-011",
+        "description": "Neurology",
+        "raw_text": "REASON FOR CONSULT:,  Organic brain syndrome in the setting of multiple myeloma.,SOURCE OF HISTORY:  ,The patient himself is not able to give a good history.  History has obtained through discussion with Dr. X over the phone and the nurse taking care of the patient despite reviewing the chart on the floor.,HISTORY OF PRESENT ILLNESS: , The patient is a 56-year-old male with the history of multiple myeloma, who has been admitted for complains of being dehydrated and was doing good until this morning, was found to be disoriented and confused, was not able to communicate properly, and having difficulty leaving out the words.  Not a very clear history at this time and the patient himself is not able to give any history despite no family member was present in the room.  Neurology consult was called to evaluate any organic brain syndrome in the setting of multiple myeloma.  The patient since the morning has improved, but still not completely back to the baseline.  Even I evaluated the patient previously, hence not very sure about his baseline.,PAST MEDICAL HISTORY:,  History of IgG subtype multiple myeloma.,SURGICAL HISTORY:,  Nothing significant.,PSYCHIATRIC HISTORY:  ,Nothing significant.,SOCIAL HISTORY:  ,No history of any smoking, alcohol or drug abuse.,ALLERGIES: , CODEINE AND FLAGYL.,IMMUNIZATION HISTORY: , Nothing significant.,FAMILY HISTORY: , Unobtainable.,REVIEW OF SYSTEMS:  ,The patient was considered to ask question for systemic review including neurology, psychiatry, sleep, ENT, ophthalmology, pulmonary, cardiology, gastroenterology, genitourinary, hematology, rheumatology, dermatology, allergy/immunology, endocrinology, toxicology, oncology, and found to be positive for the symptoms mentioned in the history of the presenting illness.  The patient himself is not able to give any history only source is the chart.  For details, please review the chart.,PHYSICAL EXAMINATION,VITAL SIGNS:  Blood pressure of 97/54, heart rate of 97, respiratory rate of 19, and temperature 98.5.  The patient on supplemental oxygen was FiO2 on 2 L 96%.  Limited physical examination.,HEENT:  Head, normocephalic and atraumatic.  Throat clear.  No discharge from the ear and the nose.  No discoloration of conjunctivae and the sclerae.,NECK:  Supple.  No signs of any meningismus.  Though a limited examination, the patient does appear to have arthritic changes, questioning contracture deformities, as not able to follow the commands to show full range of motion.  No bruit auscultated over the neck and the orbits.,LUNGS:  Clear to auscultation.,HEART:  Normal heart sounds.,ABDOMEN:  Benign.,EXTREMITIES:  No edema, clubbing or cyanosis.  No rash.  No leptomeningeal or neurocutaneous disorder.,NEUROLOGIC:  Examination is limited.  Mental state examination, the patient is awake, alert, and oriented to himself, not able follow commands, and give a proper history, and still appeared to be confuse and disoriented.  Cranial nerve examination limited, but apparently nonfocal.  Motor examination is very limited except for the grips, which were strong enough.  I was not able to obtain much.  Deep tendon reflexes were not reliable.  Toes equivocal and downgoing.  Sensory examination is not reliable, though intact for painful stimuli with limited examination.  Coordination could not be tested.  Gait could not be tested.,IMPRESSION:,  History of multiple myeloma and altered mental status in multiple myeloma setting.  Rule out brain metastasis including lepto-meningismus, possible transient ischemic attack related to hyperviscosity syndrome or provoked seizure related to ischemia, and delirium related to any electrolyte imbalance or underlying infarction.,PLAN AND RECOMMENDATIONS: , The patient is to continue with current level of management.  I will review the chart before ordering any further testing that may include a CT scan of the brain, if has not been ordered, EEG, urine test, and the latest CBC with diff. to rule out any urinary tract infection or indication of any other seen of infection.  No other intervention at this time.  The patient may be started on aspirin, if it is okay with Dr. X.",
+        "expected_output": {
+            "medications_extracted": [
+                "aspirin"
+            ],
+            "conditions": [
+                "multiple myeloma",
+                "organic brain syndrome",
+                "dehydration",
+                "altered mental status",
+                "brain metastasis",
+                "lepto-meningismus",
+                "transient ischemic attack",
+                "hyperviscosity syndrome",
+                "seizure",
+                "delirium",
+                "electrolyte imbalance",
+                "infarction",
+                "urinary tract infection"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-012",
+        "description": "Consult - History and Phy.",
+        "raw_text": "GENERAL APPEARANCE: , This is a well-developed and well-nourished, ??,VITAL SIGNS: , Blood pressure ??, heart rate ?? and regular, respiratory rate ??, temperature is ?? degrees Fahrenheit.  Height is ?? feet ?? inches.  Weight is ?? pounds.  This yields a body mass index of ??.,HEAD, EYES, EARS, NOSE AND THROAT:,  The pupils were equal, round and reactive to light.  Extraocular movements are intact.  Sclera are nonicteric.  Ears, nose, mouth and throat - Externally the ears and nose are normal.  The mucous membranes are moist and midline.,NECK:  ,The neck is supple without masses.  No thyromegaly, no carotid bruits, no adenopathy.,LUNGS:  ,There is a normal respiratory effort.  Bilateral breath sounds are clear.  No wheezes or rales or rhonchi.,CARDIAC: , Normal cardiac impulse location.  S1 and S2 are normal.  No rubs, murmurs or gallops.  A regular rate and rhythm.  There are no abdominal aortic bruits.  The carotid, brachial, radial, femoral, popliteal and dorsalis pedis pulses are 2+ and equal bilaterally.,EXTREMITIES: , The extremities are without clubbing, cyanosis, or edema.,CHEST: , The chest examination is unremarkable.,BREASTS:  ,The breasts show no masses or tenderness.  No axillary adenopathy.,ABDOMEN:,  The abdomen is flat, soft, nontender, no organomegaly, no masses, normal bowel sounds are present.,RECTAL: , Examination was deferred.,LYMPHATIC: , No neck, axillary or groin adenopathy was noted.,SKIN EXAMINATION:,  Unremarkable.,MUSCULOSKELETAL EXAMINATION: , Grossly normal.,NEUROLOGIC: , The cranial nerves two through twelve are grossly intact.  Patellar and biceps reflexes are normal.,PSYCHIATRIC: , The patient is awake, alert and oriented times three.  Judgment and insight are good.  Affect is appropriate.",
+        "expected_output": {
+            "medications_extracted": [],
+            "conditions": [],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-013",
+        "description": "General Medicine",
+        "raw_text": "FEMALE PHYSICAL EXAMINATION,HEENT:  Pupils equal, round and reactive to light and accommodation.  Extraocular movements are intact.  Sclerae are anicteric.  TMs are clear bilaterally.  Oropharynx is clear without erythema or exudate.,Neck:  Supple without lymphadenopathy or thyromegaly.  Carotids are silent.  There is no jugular venous distention.,Chest:  Clear to auscultation bilaterally.,Cardiovascular:  Regular rate and rhythm without S3, S4.  No murmurs or rubs are appreciated.  Peripheral pulses are +2 and equal bilaterally in all four extremities.,Abdomen:  Soft, nontender, nondistended with positive bowel sounds.  No masses, hepatomegaly or splenomegaly are appreciated.,GU:  Reveals normal female external genitalia.  Speculum exam reveals vaginal mucosa to be pink and rugous.  Cervix appears normal.  Bimanual exam reveals uterus to be within normal limits.  Adnexa are normal without masses appreciated.  There is no cervical motion tenderness.,Rectal Exam:  Normal rectal tone.  No masses are appreciated.  Hemoccult is negative.,Extremities:  Reveal no clubbing, cyanosis, or edema.,Joint Exam:  Reveals no tenosynovitis.,Integumentary:  Normal breast tissue without lumps or masses.  There are no skin changes over the breasts.  Axillae are free of masses.,Neurologic:  Cranial nerves II through XII are grossly intact.  Motor strength is 5/5 and equal in all four extremities.  Deep tendon reflexes are +2/4 and equal bilaterally.  Patient is alert and oriented times 3.,Psychiatric:  Grossly normal.,Dermatologic:  No lesions or rashes.",
+        "expected_output": {
+            "medications_extracted": [],
+            "conditions": [],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-014",
+        "description": "Surgery",
+        "raw_text": "PREOPERATIVE DIAGNOSIS: , Shunt malfunction.  The patient with a ventriculoatrial shunt.,POSTOPERATIVE DIAGNOSIS:,  Shunt malfunction.  The patient with a ventriculoatrial shunt.,ANESTHESIA: , General endotracheal tube anesthesia.,INDICATIONS FOR OPERATION: , Headaches, fluid accumulating along shunt tract.,FINDINGS: , Partial proximal shunt obstruction.,TITLE OF OPERATION:,  Endoscopic proximal shunt revision.,SPECIMENS: , None.,COMPLICATIONS:,  None.,DEVICES: , Portnoy ventricular catheter.,OPERATIVE PROCEDURE:,  After satisfactory general endotracheal tube anesthesia was administered, the patient positioned on the operating table in supine position with the right frontal area shaved and the head was prepped and draped in a routine manner.  The old right frontal scalp incision was reopened in a curvilinear manner, and the Bactiseal ventricular catheter was identified as it went into the right frontal horn.  The distal end of the VA shunt was flushed and tested with heparinized saline, found to be patent, and it was then clamped.  Endoscopically, the proximal end was explored and we found debris within the lumen, and then we were able to freely move the catheter around.  We could see along the tract that the tip of the catheter had gone into the surrounding tissue and appeared to have prongs or extensions in the tract, which were going into the catheter consistent with partial proximal obstruction.  A Portnoy ventricular catheter was endoscopically introduced and then the endoscope was bend so that the catheter tip did not go into the same location where it was before, but would take a gentle curve going into the right lateral ventricle.  It flushed in quite well, was left at about 6.5 cm to 7 cm and connected to the existing straight connector and secured with 2-0 Ethibond sutures.  The wounds were irrigated out with Bacitracin and closed in a routine manner using two 3-0 Vicryl for the galea and a 4-0 running Monocryl for the scalp followed by Mastisol and Steri-Strips.  The patient was awakened and extubated having tolerated the procedure well without complications.  It should be noted that the when we were irrigating through the ventricular catheter, fluid easily came out around the catheter indicating that the patient had partial proximal obstruction so that we could probably flow around the old shunt tract and perhaps this was leading to some of the symptomatology or findings of fluid along the chest.",
+        "expected_output": {
+            "medications_extracted": [
+                "heparinized saline",
+                "Bacitracin"
+            ],
+            "conditions": [
+                "Shunt malfunction",
+                "Headaches",
+                "Partial proximal shunt obstruction"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-015",
+        "description": "Orthopedic",
+        "raw_text": "PREOPERATIVE DIAGNOSIS: , Wrist ganglion.,POSTOPERATIVE DIAGNOSIS: , Wrist ganglion.,TITLE OF PROCEDURE: , Excision of dorsal wrist ganglion.,PROCEDURE: , After administering appropriate antibiotics and general anesthesia, the upper extremity was prepped and draped in the usual standard fashion.  The arm was exsanguinated with an Esmarch and tourniquet inflated to 250 mmHg.  I made a transverse incision directly over the ganglion.  Dissection was carried down through the extensor retinaculum, identifying the 3rd and the 4th compartments and retracting them.  I then excised the ganglion and its stalk.  In addition, approximately a square centimeter of the dorsal capsule was removed at the origin of stalk, leaving enough of a defect to prevent formation of a one-way valve.  We then identified the scapholunate ligament, which was uninjured.  I irrigated and closed in layers and injected Marcaine with epinephrine.  I dressed and splinted the wound.  The patient was sent to the recovery room in good condition, having tolerated the procedure well.",
+        "expected_output": {
+            "medications_extracted": [
+                "antibiotics",
+                "Marcaine",
+                "epinephrine"
+            ],
+            "conditions": [
+                "Wrist ganglion"
+            ],
+            "expected_ddi": [
+                {
+                    "drugs": [
+                        "Marcaine",
+                        "epinephrine"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "case_id": "SILVER-016",
+        "description": "Neurosurgery",
+        "raw_text": "PREOPERATIVE DIAGNOSES,1.  Cervical radiculopathy, C5-C6 and C6-C7.,2.  Symptomatic cervical spondylosis, C5-C6 and C6-C7.,3.  Symptomatic cervical stenosis, C5-C6 and C6-C7.,4.  Symptomatic cervical disc herniations, C5-C6 and C6-C7.,POSTOPERATIVE DIAGNOSES,1.  Cervical radiculopathy, C5-C6 and C6-C7.,2.  Symptomatic cervical spondylosis, C5-C6 and C6-C7.,3.  Symptomatic cervical stenosis, C5-C6 and C6-C7.,4.  Symptomatic cervical disc herniations, C5-C6 and C6-C7.,OPERATIVE PROCEDURE,1.  CPT code 63075:  Anterior cervical discectomy and osteophytectomy, C5-C6.,2.  CPT code 63076:  Anterior cervical discectomy and osteophytectomy, C6-C7, additional level.,3.  CPT code 22851:  Application of prosthetic interbody fusion device, C5-C6.,4.  CPT code 22851-59:  Application of prosthetic interbody fusion device, C6-C7, additional level.,5.  CPT code 22554-51:  Anterior cervical interbody arthrodesis, C5-C6.,6.  CPT code 22585:  Anterior cervical interbody arthrodesis, C6-C7, additional level.,7.  CPT code 22845:  Anterior cervical instrumentation, C5-C7.,ANESTHESIA:,  General endotracheal.,ESTIMATED BLOOD LOSS:  ,Negligible.,DRAINS: , Small suction drain in the cervical wound.,COMPLICATIONS:,  None.,PROCEDURE IN DETAIL:,  The patient was given intravenous antibiotic prophylaxis and thigh-high TED hoses were placed on the lower extremities while in the preanesthesia holding area.  The patient was transported to the operative suite and on to the operative table in the supine position.  General endotracheal anesthesia was induced.  The head was placed on a well-padded head holder.  The eyes and face were protected from pressure.  A well-padded roll was placed beneath the neck and shoulders to help preserve the cervical lordosis.  The arms were tucked and draped to the sides.  All bony prominences were well padded.  An x-ray was taken to confirm the correct level of the skin incision.  The anterior neck was then prepped and draped in the usual sterile fashion.,A straight transverse skin incision over the left side of the anterior neck was made and carried down sharply through the skin and subcutaneous tissues to the level of the platysma muscle, which was divided transversely using the electrocautery.  The superficial and deep layers of the deep cervical fascia were divided.  The midline structures were reflected to the right side.  Care was taken during the dissection to avoid injury to the recurrent laryngeal nerve and the usual anatomical location of that nerve was protected.  The carotid sheath was palpated and protected laterally.  An x-ray was taken to confirm the level of C5-C6 and C6-C7.,The longus colli muscle was dissected free bilaterally from C5 to C7 using blunt dissection.  Hemostasis was obtained using the electrocautery.  The blades of the cervical retractor were placed deep to the longus colli muscles bilaterally.  At C5-C6, the anterior longitudinal ligament was divided transversely.  Straight pituitary rongeurs and a curette were used to remove the contents of the disc space.  All cartilages were scraped off the inferior endplate of C5 and from the superior endplate of C6.  The disc resection was carried posteriorly to the posterior longitudinal ligament and laterally to the uncovertebral joints.  The posterior longitudinal ligament was resected using a 1 mm Kerrison rongeur.  Beginning in the midline and extending into both neural foramen, posterior osteophytes were removed using a 1 m and a 2 mm Kerrison rongeurs.  The patient was noted to have significant bony spondylosis causing canal and foraminal stenosis as well as a degenerative and protruding disc in agreement with preoperative diagnostic imaging studies.  Following completion of the discectomy and osteophytectomy, a blunt nerve hook was passed into the canal superiorly and inferiorly as well as in the both neural foramen to make sure that there were no extruded disc fragments and to make sure the bony decompression was complete.  A portion of the uncovertebral joint was resected bilaterally for additional nerve root decompression.  Both nerve roots were visualized and noted to be free of encroachment.  The same procedure was then carried out at C6-C7 with similar findings.  The only difference in the findings was that at C6-C7 on the left side, the patient was found to have an extruded disc fragment in the canal and extending into the left side neural foramen causing significant cord and nerve root encroachment.,In preparation for the arthrodesis, the endplates of C5, C6, and C7 were burred in a parallel fashion down to the level of bleeding bone using a high-speed cutting bur with irrigant solution for cooling.  The disc spaces were then measured to the nearest millimeter.  Attention was then turned toward preparation of the structural allograft, which consisted of two pieces of pre-machined corticocancellous bone.  The grafts were further shaped to fit the disc spaces exactly in a press-fit manner with approximately 1.5 mm of distraction at each disc space.  The grafts were shaped to be slightly lordotic to help preserve the cervical lordosis.  The grafts were impacted into the disc spaces.  There was complete bony apposition between the ends of the bone grafts and the vertebral bodies of C5, C6, and C7.  A blunt nerve hook was passed posterior to each bone graft to make sure that the bone grafts were in good position.  Anterior osteophytes were removed using a high-speed cutting bur with irrigant solution for cooling.  An appropriate length Synthes cervical plate was selected and bent slightly to conform to the patient's cervical lordosis.  The plate was held in the midline with provided instrumentation while a temporary fixation screw was applied at C6.  Screw holes were then drilled using the provided drill and drill guide taking care to avoid injury to neurovascular structures.  The plate was then rigidly fixed to the anterior spine using 14-mm cancellous screws followed by locking setscrews added to the head of each screw to prevent postoperative loosening of the plate and/or screws.,An x-ray was taken, which confirmed satisfactory postioning of the plate, screws, and bone grafts.,Blood loss was minimal.  The wound was irrigated with irrigant solution containing antibiotics.  The wound was inspected and judged to be dry.  The wound was closed over a suction drain placed in the deepest portion of the wound by reapproximating the platysma muscle with #4-0 Vicryl running suture, the subdermal and subcuticular layers with #4-0 Monocryl interrupted sutures, and the skin with Steri-Strips.  The sponge and needle count were correct.  A sterile dressing was applied to the wound.  The neck was placed in a cervical orthosis.  The patient tolerated the procedure and was transferred to the recovery room in stable condition.",
+        "expected_output": {
+            "medications_extracted": [
+                "antibiotic"
+            ],
+            "conditions": [
+                "Cervical radiculopathy",
+                "Symptomatic cervical spondylosis",
+                "Symptomatic cervical stenosis",
+                "Symptomatic cervical disc herniations"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-017",
+        "description": "Surgery",
+        "raw_text": "PREOPERATIVE DIAGNOSES,1.  Empyema thoracis.,2.  Need for intravenous antibiotics.,POSTOPERATIVE DIAGNOSES,1.  Empyema thoracis.,2.  Need for intravenous antibiotics.,PROCEDURE:,  Central line insertion.,DESCRIPTION OF PROCEDURE: , With the patient in his room, after obtaining the informed consent, his left deltopectoral area was prepped and draped in the usual fashion.  Xylocaine 1% was infiltrated and with the patient in the Trendelenburg position, the left subclavian vein was subcutaneously cannulated without any difficulty.  The triple-lumen catheter was inserted and all ports were flushed out and were irrigated with normal saline.  The catheter was fixed to the skin with sutures.  The dressing was applied and then the chest x-ray was obtained which showed no complications of the procedure and good position of the catheter.",
+        "expected_output": {
+            "medications_extracted": [
+                "Xylocaine"
+            ],
+            "conditions": [
+                "Empyema thoracis"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-018",
+        "description": "Surgery",
+        "raw_text": "PREOPERATIVE DIAGNOSIS (ES):, Osteoarthritis, right knee.,POSTOPERATIVE DIAGNOSIS (ES):, Osteoarthritis, right knee.,PROCEDURE:, Right total knee arthroplasty.,DESCRIPTION OF THE OPERATION:, The patient was brought to the Operating Room and after the successful placement of an epidural, as well as general anesthesia, administration 1 gm of Ancef preoperatively, the patient's right thigh, knee and leg were scrubbed, prepped and draped in the usual sterile fashion. The leg was exsanguinated by gravity and pneumatic tourniquet was inflated to 300 mmHg.,A straight anterior incision was carried down through the skin and subcutaneous tissue. Unilateral flaps were developed and a median retinacular parapatellar incision was made. The extensor mechanism was partially divided and the patella was everted. Some of the femoral bone spurs were resected using an osteotome and a rongeur. Ascending drill hole was made in the distal femur and the distal femoral cut, anterior and posterior and chamfer cuts were accomplished for a 67.5 femoral component.,At this point the ACL was resected. Some of the fat pad and synovium were resected, as well as both medial and lateral menisci. A posterior cruciate retractor was utilized, the tibia brought forward and a centering drill hole made in the tibia. The intramedullary guide was used for cutting the tibia. It was set at 8 mm. An additional 2 mm was resected because of a moderate defect medially.,A trial reduction was done with a 71 tibial baseplate. This was pinned and drilled and then trial reduction done with a 10-mm insert.,This gave good stability and a full range of motion.,The patella was measured with the calibers and 9 mm of bone was resected with an oscillating saw. A 34-mm component was drilled for.,A further trial reduction was done and two liters of pulse lavage were used to clean the bony surfaces. A packet of cement was hand mixed, pressurized with a spatula into the proximal tibia. Multiple drill holes were made on the medial side of the tibia where the bone was somewhat sclerotic. The tibia baseplate was secured and the patella was inserted, held with a clamp. The extraneous cement was removed. At this point the tibial baseplate was locked into place and the femoral component also seated solidly.,The knee was extended, held in this position for another 5-6 minutes until the cement was cured. Further extraneous cement was removed. The pneumatic tourniquet was released, hemostasis was obtained with electrocoagulation.,Retinaculum, quadriceps and extensor were repaired with multiple figure-of-eight #1 Vicryl sutures, the subcutaneous tissue with 2-0 and the skin with skin staples. A sterile, bulky compression dressing was placed. The patient was stable on operative release.",
+        "expected_output": {
+            "medications_extracted": [
+                "Ancef"
+            ],
+            "conditions": [
+                "Osteoarthritis"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-019",
+        "description": "Neurology",
+        "raw_text": "PREOPERATIVE DIAGNOSES:,1.  Epidural hematoma, cervical spine.,2.  Status post cervical laminectomy, C3 through C7 postop day #10.,3.  Central cord syndrome.,4.  Acute quadriplegia.,POSTOPERATIVE DIAGNOSES:,1.  Epidural hematoma, cervical spine.,2.  Status post cervical laminectomy, C3 through C7 postop day #10.,3.  Central cord syndrome.,4.  Acute quadriplegia.,PROCEDURE PERFORMED:,1.  Evacuation of epidural hematoma.,2.  Insertion of epidural drain.,ANESTHESIA: , General.,COMPLICATIONS:  ,None.,ESTIMATED BLOOD LOSS:  ,200 cc.,HISTORY:  ,This is a 64-year-old female who has had an extensive medical history beginning with coronary artery bypass done on emergent basis while she was in Maryland in April of 2003 after having myocardial infarction.  She was then transferred to Beaumont Hospital, at which point, she developed a sternal abscess.  The patient was treated for the abscess in Beaumont and then subsequently transferred to some other type of facility near her home in Warren, Michigan at which point, she developed a second what was termed minor myocardial infarction.,The patient subsequently recovered in a Cardiac Rehab Facility and approximately two weeks later, brings us to the month of August, at which time she was at home ambulating with a walker or a cane, and then sustained a fall and at that point she was unable to walk and had acute progressive weakness and was identified as having a central cord syndrome based on an MRI, which showed record signal change.  The patient underwent cervical laminectomy and seemed to be improving subjectively in terms of neurologic recovery, but objectively there was not much improvement.  Approximately 10 days after the surgery, brings us to today's date, the health officer was notified of the patient's labored breathing.  When she examined the patient, she also noted that the patient was unable to move her extremities.  She was concerned and called the Orthopedic resident who identified the patient to be truly quadriplegic.  I was notified and ordered the operative crew to report immediately and recommended emergent decompression for the possibility of an epidural hematoma.  On clinical examination, there was swelling in the posterior aspect of the neck.  The patient has no active movement in the upper and lower extremity muscle groups.  Reflexes are absent in the upper and lower extremities.  Long track signs are absent.  Sensory level is at the C4 dermatome.  Rectal tone is absent.  I discussed the findings with the patient and also the daughter.  We discussed the possibility of this is permanent quadriplegia, but at this time, the compression of the epidural space was warranted and certainly for exploration reasons be sure that there is a hematoma there and they have agreed to proceed with surgery.  They are aware that it is possible she had known permanent neurologic status regardless of my intervention and they have agreed to accept this and has signed the consent form for surgery.,OPERATIVE PROCEDURE:  ,The patient was taken to OR #1 at ABCD General Hospital on a gurney.  Department of Anesthesia administered fiberoptic intubation and general anesthetic.  A Foley catheter was placed in the bladder.  The patient was log rolled in a prone position on the Jackson table.  Bony prominences were well padded.  The patient's head was placed in the prone view anesthesia head holder.  At this point, the wound was examined closely and there was hematoma at the caudal pole of the wound.  Next, the patient was prepped and draped in the usual sterile fashion.  The previous skin incision was reopened.  At this point, hematoma properly exits from the wound.  All sutures were removed and the epidural spaces were encountered at this time.  The self-retaining retractors were placed in the depth of the wound.  Consolidated hematoma was now removed from the wound.  Next, the epidural space was encountered.  There was no additional hematoma in the epidural space or on the thecal sac.  A curette was carefully used to scrape along the thecal sac and there was no film or lining covering the sac.  The inferior edge of the C2 lamina was explored and there was no compression at this level and the superior lamina of T1 was explored and again no compression was identified at this area as well.  Next, the wound was irrigated copiously with one liter of saline using a syringe.  The walls of the wound were explored.  There was no active bleeding.  Retractors were removed at this time and even without pressure on the musculature, there was no active bleeding.  A #19 French Hemovac drain was passed percutaneously at this point and placed into the epidural space.  Fascia was reapproximated with #1 Vicryl sutures, subcutaneous tissue with #3-0 Vicryl sutures.  Steri-Strips covered the incision and dressing was then applied over the incision.  The patient was then log rolled in the supine position on the hospital gurney.  She remained intubated for airway precautions and transferred to the recovery room in stable condition.  Once in the recovery room, she was alert.  She was following simple commands and using her head to nod, but she did not have any active movement of her upper or lower extremities.  Prognosis for this patient is guarded.",
+        "expected_output": {
+            "medications_extracted": [],
+            "conditions": [
+                "Epidural hematoma",
+                "Cervical spine injury",
+                "Status post cervical laminectomy",
+                "Central cord syndrome",
+                "Acute quadriplegia",
+                "Coronary artery disease",
+                "Myocardial infarction",
+                "Sternal abscess"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-020",
+        "description": "Orthopedic",
+        "raw_text": "PREOPERATIVE DIAGNOSES:,  ,1.  Spondylosis with cervical stenosis C5-C6 greater than C4-C5, C6-C7, (721.0, 723.0).,2.  Neck pain with left radiculopathy, progressive (723.1/723.4).,3.  Headaches, progressive (784.0).,POSTOPERATIVE DIAGNOSES:,  ,1.  Spondylosis with cervical stenosis C5-C6 greater than C4-C5, C6-C7, (721.0, 723.0).,2.  Neck pain with left radiculopathy, progressive (723.1/723.4).,3.  Headaches, progressive (784.0).,PROCEDURES:,  ,1.  Anterior cervical discectomy at C5-C6 for neural decompression (63075).,2.  Anterior interbody fusion C5-C6 (22554) utilizing Bengal cage (22851).,3.  Anterior cervical instrumentation at C5-C6 for stabilization by Uniplate construction at C5-C6 (22845); with intraoperative x-ray x2.,SERVICE:  ,  Neurosurgery,ANESTHESIA:,",
+        "expected_output": {
+            "medications_extracted": [],
+            "conditions": [
+                "Spondylosis with cervical stenosis",
+                "Neck pain",
+                "Left radiculopathy",
+                "Headaches"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-021",
+        "description": "Surgery",
+        "raw_text": "PREOPERATIVE DIAGNOSIS: , Low Back Syndrome - Low Back Pain.,POSTOPERATIVE DIAGNOSIS: , Same.,PROCEDURE:,1.  Bilateral facet Arthrogram at L34, L45, L5S1.,2.  Bilateral facet injections at L34, L45, L5S1.,3.  Interpretation of radiograph.,ANESTHESIA:  ,IV sedation with Versed and Fentanyl.,ESTIMATED BLOOD LOSS: , None.,COMPLICATIONS:  ,None.,INDICATION: , Pain in the lumbar spine secondary to facet arthrosis that was demonstrated by physical examination and verified with x-ray studies and imaging scans.,SUMMARY OF PROCEDURE: , The patient was admitted to the OR, consent was obtained and signed.  The patient was taken to the Operating room and was placed in the prone position.  Monitors were placed, including EKG, pulse oximeter and blood pressure monitoring.  Prior to sedation vitals signs were obtained and were continuously monitored throughout the procedure for amount of pain or changes in pain, EKG, respiration and heart rate and at intervals of three minutes for blood pressure.  After adequate IV sedation with Versed and Fentanyl the procedure was begun.,The lumbar sacral regions were prepped and draped in sterile fashion with Betadine prep and four sterile towels.,The facets in the lumbar regions were visualized with Fluoroscopy using an anterior posterior view.  A skin wheal was placed with 1% Lidocaine at the L34 facet region on the left.  Under fluoroscopic guidance a 22 gauge spinal needle was then placed into the L34 facet on the left side.  This was performed using the oblique view under fluoroscopy to the enable the view of the \"Scotty Dog,\" After obtaining the \"Scotty Dog\" view the joints were easily seen.  Negative aspiration was carefully performed to verity that there was no venous, arterial or cerebral spinal fluid flow.  After negative aspiration was verified, 1/8th of a cc of Omnipaque 240 dye was then injected.  Negative aspiration was again performed and 1/2 cc of solution (Solution consisting of 9 cc of 0.5% Marcaine with 1 cc of Triamcinolone) was then injected into the joint.  The needle was then withdrawn out of the joint and 1.5 cc of this same solution was injected around the joint.  The 22-gauge needle was then removed.  Pressure was place over the puncture site for approximately one minute.  This exact same procedure was then repeated along the left-sided facets at L45, and L5S1.  This exact same procedure was then repeated on the right side.  At each level, vigilance was carried out during the aspiration of the needle to verify negative flow of blood or cerebral spinal fluid.,The patient was noted to have tolerated the procedure well without any complications.,Interpretation of the radiograph revealed placement of the 22-gauge spinal needles into the left-sided and right-sided facet joints at, L34, L45, and L5S1.  Visualizing the \"Scotty Dog\" technique under fluoroscopy facilitated this.  Dye spread into each joint space is visualized.  No venous or arterial run-off is noted.  No epidural run-off is noted.  The joints were noted to have chronic inflammatory changes noted characteristic of facet arthrosis.",
+        "expected_output": {
+            "medications_extracted": [
+                "Versed",
+                "Fentanyl",
+                "Lidocaine",
+                "Omnipaque 240",
+                "Marcaine",
+                "Triamcinolone"
+            ],
+            "conditions": [
+                "Low Back Syndrome",
+                "Low Back Pain",
+                "Facet arthrosis"
+            ],
+            "expected_ddi": [
+                {
+                    "drugs": [
+                        "Versed",
+                        "Fentanyl"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "case_id": "SILVER-022",
+        "description": "Consult - History and Phy.",
+        "raw_text": "FAMILY HISTORY: , His parents are deceased.  He has two brothers ages 68 and 77 years old, who are healthy.  He has siblings, a brother and a sister who were twins who died at birth.  He has two sons 54 and 57 years old who are healthy.  He describes history of diabetes and heart attack in his family.,SOCIAL HISTORY:  ,He is married and has support at home.  He denies tobacco and illicit drug use and drinks two to three alcoholic beverages a day and up to four to nine per week.,ALLERGIES:,  Garamycin.,MEDICATIONS: , Insulin 20 to 25 units twice a day.  Lorazepam 0.05 mg, he has a history of using this medication, but most recently stopped taking it.  Glipizide 5 mg with each meal, Advair 250 as needed, aspirin q.h.s., cod liver oil b.i.d., Centrum AZ q.d.,PAST MEDICAL HISTORY:  ,The patient has been diabetic for 35 years, has been insulin-dependent for the last 20 years.  He also has a history of prostate cancer, which was treated by radiation.  He says his PSA is at 0.01.,PAST SURGICAL HISTORY:,  In 1985, he had removal of a testicle due to enlarged testicle, he is not quite sure of the cause but he states it was not cancer.,REVIEW OF SYSTEMS: , Musculoskeletal:  He is right-handed.  Respiratory:  For shortness of breath.  Urinary:  For frequent urination.  GI:  He denies any bowel or bladder dysfunction.  Genital:  He denies any loss of sensation or erectile problems.  HEENT:  Negative and noncontributory.  Hem-Onc:  Negative and noncontributory.  Cardiac:  Negative and noncontributory.  Vascular:  Negative and noncontributory.  Psychiatric:  Negative and noncontributory.,PHYSICAL EXAMINATION: , He is 5 feet 10 inches tall.  Current weight is 204 pounds, weight one year ago was 212.  BP is 130/66.  Pulse is 78.  On physical exam, the patient is alert and oriented with normal mentation and appropriate speech, in no acute distress.  HEENT exam, head is atraumatic and normocephalic.  Eyes, sclerae are anicteric.  Teeth, poor dentition.  Cranial nerves II, III, IV, and VI, vision intact, visual fields full to confrontation, EOMs full bilaterally, and pupils are equal, round, and reactive to light.  Cranial nerves V and VII, normal facial sensation and symmetrical facial movements.  Cranial nerve VIII, hearing is intact.  Cranial nerves IX, X, and XII, tongue protrudes midline and palate elevates symmetrically.  Cardiac, regular rate, a holosystolic murmur is also noted which is about grade 1 to 2.  Chest and lungs are clear bilaterally.  Skin is warm and dry, normal turgor and texture.  No rashes or lesions are noted.  Peripheral vascular, no cyanosis, clubbing, or edema is noted.  General musculoskeletal exam reveals no gross deformities, fasciculations, or atrophy.  Station and gait are appropriate.  He ambulates well without any difficulties or assistance.  No antalgic or spastic gait is noted.  Examination of the low back reveals no paralumbar spasms.  He is nontender to palpation over his spinous process, SI joints, or paralumbar musculature.  Deep tendon reflexes are 2+ bilaterally at the knees and 1+ at the ankles.  No ankle clonus is elicited.  Babinski, toes are downgoing.  Sensation is intact.,He does have some decreased sensation to pinprick, dull versus sharp over the right lower extremity compared to that of the left.  Strength is 5/5 and equal bilateral lower extremities.  He is able to ambulate on his toes and his heels without any weakness noted.  He has negative straight leg raising bilaterally.,FINDINGS:,  The patient brings in lumbar spine MRI for 11/15/2007, which demonstrates degenerative disc disease throughout.  At L4-L5 and L5-S1 he has severe disc space narrowing.  At L3-L4, he has degenerative changes of the facet with ligamentum flavum hypertrophy and annular disc bulge, which caused moderate neuroforaminal narrowing.  At L4-L5, degenerative changes within the facets with ligamentum flavum hypertrophy as well causing neuroforaminal narrowing and central stenosis.  At L5-S1, there is an annular disc bulge more to the right causing right-sided neuroforaminal stenosis, which is quite severe compared to that on the left.,ASSESSMENT: , Low back pain, degenerative disc disease, spinal stenosis, diabetes, and history of prostate cancer status post radiation.,PLAN: , We discussed treatment options with this patient including:,1.  Do nothing.,2.  Conservative therapies.,3.  Surgery.,The patient states that his pain is very well tolerated by minimizing his activity and would like to do just pain management with some pain pills only as needed.  We went ahead and obtained an EKG in the office today due to the fact that I heard a murmur on exam.  I did phone the patient's primary care doctor, Dr. O.  Unfortunately Dr. O is out of the country, and I did speak with Dr. K, who is covering for Dr. O.  I informed Dr. K that the patient had a new-onset murmur and that I did have some concerns for the patient does not recollect having this diagnosis before, so I obtained an EKG.  A copy was provided to the patient and the patient was referred back to his primary care physician for workup.  He was also released from our care at this time to a p.r.n. basis, but the patient does not wish to proceed with any neurosurgical intervention nor any conservative measures besides medications, which he will receive from his primary doctor.,All questions and concerns were addressed.  If he should have any further questions, concerns, or complications, he will contact our office immediately.  Otherwise, we will see him p.r.n.  Warning signs and symptoms were gone over with him.  Case was reviewed and discussed with Dr. L.",
+        "expected_output": {
+            "medications_extracted": [
+                "Insulin",
+                "Glipizide",
+                "Advair",
+                "aspirin",
+                "cod liver oil",
+                "Centrum AZ"
+            ],
+            "conditions": [
+                "diabetes",
+                "prostate cancer",
+                "low back pain",
+                "degenerative disc disease",
+                "spinal stenosis"
+            ],
+            "expected_ddi": [
+                {
+                    "drugs": [
+                        "Insulin",
+                        "Glipizide"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "case_id": "SILVER-023",
+        "description": "General Medicine",
+        "raw_text": "EARS, NOSE, MOUTH AND THROAT,EARS/NOSE: , The auricles are normal to palpation and inspection without any surrounding lymphadenitis.  There are no signs of acute trauma.  The nose is normal to palpation and inspection externally without evidence of acute trauma.  Otoscopic examination of the auditory canals and tympanic membranes reveals the auditory canals without signs of mass lesion, inflammation or swelling.  The tympanic membranes are without disruption or infection.  Hearing intact bilaterally to normal level speech.  Nasal mucosa, septum and turbinate examination reveals normal mucous membranes without disruption or inflammation.  The septum is without acute traumatic lesions or disruption.  The turbinates are without abnormal swelling.  There is no unusual rhinorrhea or bleeding.  ,LIPS/TEETH/GUMS:  ,The lips are without infection, mass lesion or traumatic lesions.  The teeth are intact without obvious signs of infection.  The gingivae are normal to palpation and inspection.  ,OROPHARYNX:  ,The oral mucosa is normal.  The salivary glands are without swelling.  The hard and soft palates are intact.  The tongue is without masses or swelling with normal movement.  The tonsils are without inflammation.  The posterior pharynx is without mass lesion with good patent oropharyngeal airway.",
+        "expected_output": {
+            "medications_extracted": [],
+            "conditions": [],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-024",
+        "description": "Obstetrics / Gynecology",
+        "raw_text": "PREOPERATIVE DIAGNOSES:,1.  Hypermenorrhea.,2.  Pelvic pain.,3.  Infertility.,POSTOPERATIVE DIAGNOSES:,1.  Enlarged fibroid uterus.,2.  Infertility.,3.  Pelvic pain.,4.  Probable bilateral tubal occlusion.,PROCEDURE PERFORMED:,1.  Dilatation and curettage.,2.  Laparoscopy.,3.  Injection of indigo carmine dye.,GROSS FINDINGS: , The uterus was anteverted, firm, enlarged, irregular, and mobile.  The cervix is nulliparous without lesions.  Adnexal examination was negative for masses.,PROCEDURE:  ,The patient was placed in the lithotomy position, properly prepared and draped in sterile manner.  After bimanual examination, the cervix was exposed with a weighted vaginal speculum and the anterior lip of the cervix was grasped with vulsellum tenaculum.  Uterus sounded to a depth of 10.5 cm.  Endocervical canal was progressively dilated with Hanks dilators to #20-French.  A medium-sized sharp curet was used to obtain a moderated amount of tissue upon curettage, which was taken from all uterine quadrants and sent to the pathologist for analysis.  A ________ syringe was then introduced into the uterine cavity to a depth of 9 cm and the balloon insufflated with 10 cc of air.  A 20 cc syringe filled with dilute indigo carmine dye was attached to the end of the ________ syringe to use to inject at the time of laparoscopy.,A small subumbilical incision was then made with insertion of the step dilating sheath with a Veress needle into the peritoneal cavity.  The peritoneal cavity was insufflated with 3 liters of carbondioxide and a 12 mm trocar inserted.  The laparoscope was then inserted through the trocar with visualization of the pelvic contents.  In steep Trendelenburg position, the uterus was visualized and aided by use of a Bierman needle to displace bowel from visualized areas.  The fallopian tubes appeared normal bilaterally with good visualization of a normal appearing fimbria.  The ovaries also appeared normal bilaterally.  The uterus was greatly enlarged and distorted with large fibroids in multiple areas and especially on the right coronal area.  An attempt was made to inject the indigo carmine dye and in fact a three syringes of 20 cc were injected without any visualization of intraperitoneal dye still.  Both fallopian tubes apparently were blocked.  The upper abdomen was visually explored and found to be normal as was the bowel and area of the right ileum.  The patient tolerated the procedure well.  Instruments were removed from the vaginal vault and the abdomen.  Trocar was removed and the carbondioxide allowed to escape and the subumbilical wound repaired with two #4-0 undyed Vicryl sutures.  Sterile dressing was applied to the wound and the patient was sent to the recovery area in satisfactory postoperative condition.",
+        "expected_output": {
+            "medications_extracted": [
+                "indigo carmine dye",
+                "carbondioxide",
+                "Vicryl"
+            ],
+            "conditions": [
+                "Hypermenorrhea",
+                "Pelvic pain",
+                "Infertility",
+                "Enlarged fibroid uterus",
+                "Bilateral tubal occlusion"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-025",
+        "description": "Cosmetic / Plastic Surgery",
+        "raw_text": "PREOPERATIVE DIAGNOSIS,Bilateral macromastia.,POSTOPERATIVE DIAGNOSIS,Bilateral macromastia.,OPERATION,Bilateral reduction mammoplasty.,ANESTHESIA,General.,FINDINGS,The patient had large ptotic breasts bilaterally and had had chronic difficulty with pain in the back and shoulder.  Right breast was slightly larger than the left this was repaired with a basic wise pattern reduction mammoplasty with anterior pedicle.,PROCEDURE,With the patient under satisfactory general endotracheal anesthesia, the entire chest was prepped and draped in usual sterile fashion.  A previously placed mark to identify the neo-nipple site was re-identified and carefully measured for asymmetry and appeared to be satisfactory.  A keyhole wire ring was then used to outline the basic wise pattern with 6-cm lamps inferiorly.  This was then carefully checked for symmetry and appeared to be satisfactory.  All marks were then completed and lightly incised on both breasts.  The right breast was approached first.  The neo-nipple site was de-epithelialized superiorly and then the inferior pedicle was de-epithelialized using cutting cautery.  After this had been completed, cutting cautery was used to carry down an incision along the inferior aspect of the periosteum starting immediately.  This was taken down to the prepectoral fashion dissected for short distance superiorly, and then blunt dissection was used to mobilize under the superior portion of the breast tissues to the lateral edge of the pectoral muscle.  There was very little bleeding with this procedure.  After this had been completed, attention was directed to the lateral side, and the inferior incision was made and taken down to the serratus.  Cautery dissection was then used to carry this up superiorly over the lateral edge of the pectoral muscle to communicate with the previous pocket.  After this had been completed, cutting cautery was used to cut around the inferior pedicle completely freeing the superior breast from the inferior breast.  Hemostasis was obtained with electrocautery.  After this had been completed, cutting cautery was used to cut along the superior edge of the redundant tissue and this was tapered under the superior flaps.  On the right side, there was a small palpable lobule, which had shown up on mammogram, but nothing except some fat density was identified.  This site had been previously marked carefully, and there were no unusual findings and the superior tissue was then sent out separately for pathology.  After this had been completed, final hemostasis obtained, and the wound was irrigated and a tagging suture placed to approximate the tissues.  The breast cleared and the nipple appeared good.,Attention was then directed to the left breast, which was completed in the similar manner.  After this had been completed, the patient was placed in a near upright position, and symmetry appeared good, but it was a bit poor on the lateral aspect of the right side, which was little larger and some suction lipectomy was carried out in this area.  After completion of this, 1860 grams had been removed from the right and 1505 grams was removed from the left.  Through separate stab wounds on the lateral aspect, 10-mm flat Blake drains were brought out and sutures were then placed **** and irrigated.  The wounds were then closed with interrupted 4-0 Monocryl on the deep dermis and running intradermal 4-0 Monocryl on the skin, packing sutures and staples were removed as they were approached.  The nipple was sutured with running intradermal 4-0 Monocryl.  Vascularity appeared good throughout.  After this had been completed, all wounds were cleaned and Steri-Stripped.  The patient tolerated the procedure well.  All counts were correct.  Estimated blood loss was less than 150 mL, and she was sent to recovery room in good condition.",
+        "expected_output": {
+            "medications_extracted": [],
+            "conditions": [
+                "Bilateral macromastia",
+                "Chronic back pain",
+                "Chronic shoulder pain"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-026",
+        "description": "Surgery",
+        "raw_text": "PREOPERATIVE DIAGNOSIS: , Left neck abscess.,POSTOPERATIVE DIAGNOSIS: , Left neck abscess.,OPERATIVE PROCEDURE: , Incision and drainage of left neck abscess.,ANESTHESIA:  ,General inhalational.,DESCRIPTION OF PROCEDURE: , The patient was taken to operating room and placed supine on the operating table.  General inhalational anesthesia was administered.  The patient was draped in usual fashion.  The prominent area of the left submandibular swelling was noted and a 1-cm incision was outlined with a marking pen and the area was infiltrated with 0.5 mL of local anesthetic using 1% Xylocaine with epinephrine 1:100,000.  The incision was performed with a #15 blade.  An 18-gauge needle and 10 mL syringe was used to evacuate a small amount of the purulence from the abscess cavity.  This was submitted for culture and sensitivity, anaerobic cultures and Gram stain.  The cavity was opened with a small hemostat and a great deal of grossly purulent material was evacuated.  The cavity was irrigated with peroxide and saline.  A 0.25-inch Penrose drain was placed and secured with a single #3-0 nylon suture.  A 4 x 4 dressing was applied.  Bleeding was negligible.  There were no untoward complications.  The patient tolerated the procedure well and was transferred to the recovery room in stable condition.",
+        "expected_output": {
+            "medications_extracted": [
+                "Xylocaine",
+                "epinephrine",
+                "peroxide"
+            ],
+            "conditions": [
+                "Left neck abscess"
+            ],
+            "expected_ddi": [
+                {
+                    "drugs": [
+                        "Xylocaine",
+                        "epinephrine"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "case_id": "SILVER-027",
+        "description": "Orthopedic",
+        "raw_text": "EXAM:,MRI-UP EXT JOINT LEFT SHOULDER,CLINICAL:,Left shoulder pain. Evaluate for rotator cuff tear.,FINDINGS:,  Multiple T1 and gradient echo axial images were obtained, as well as T1 and fat suppressed T2-weighted coronal images.,The rotator cuff appears intact and unremarkable. There is no significant effusion seen. Osseous structures are unremarkable. There is no significant downward spurring at the acromioclavicular joint. The glenoid labrum is intact and unremarkable.,IMPRESSION:,  Unremarkable MRI of the left shoulder.,",
+        "expected_output": {
+            "medications_extracted": [],
+            "conditions": [
+                "Left shoulder pain"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-028",
+        "description": "Cardiovascular / Pulmonary",
+        "raw_text": "PROCEDURE PERFORMED:,1.  Left heart catheterization, left ventriculogram, aortogram, coronary angiogram.,2.  PCI of the LAD and left main coronary artery with Impella assist device.,INDICATIONS FOR PROCEDURE: , Unstable angina and congestive heart failure with impaired LV function.,TECHNIQUE OF PROCEDURE: , After obtaining informed consent, the patient was brought to the cardiac catheterization suite in postabsorptive and nonsedated state.  The right groin was prepped and draped in the usual sterile manner.  Lidocaine 2% was used for infiltration anesthesia.  Using modified Seldinger technique, a 7-French sheath was introduced into the right common femoral artery and a 6-French sheath was introduced into the right common femoral vein.  Through the arterial sheath, angiography of the right common femoral artery was obtained.  Thereafter, 6-French pigtail catheter was advanced to the level of the distal aorta where angiography of the distal aorta and the bifurcation of the right and left common iliac arteries was obtained.  Thereafter, a 4-French sheath was introduced into the left common femoral artery using modified Seldinger technique.  Thereafter, the pigtail catheter was advanced over an 0.035-inch J-wire into the left ventricle and LV-gram was performed in RAO view and after pullback, an aortogram was performed in the LAO view.  Therefore, a 6-French JL4 and JR4 guiding catheters were used to engage the left and right coronary arteries respectively and multiple orthogonal views of the coronary arteries were obtained.,ANGIOGRAPHIC FINDINGS:  ,1.  LV-gram:  LVEDP was 15 mmHg.  LV ejection fraction 10% to 15% with global hypokinesis.  Only anterior wall is contracting.  There was no mitral regurgitation.  There was no gradient across the aortic valve upon pullback, and on aortography, there was no evidence of aortic dissection or aortic regurgitation.,2.  The right coronary artery is a dominant vessels with a mid 50% to 70% stenosis which was not treated.  The left main coronary artery calcified vessel with disease.,2.  The left anterior descending artery had an 80% to 90% mid-stenosis.  First diagonal branch had a more than 90% stenosis.,3.  The circumflex coronary artery had a patent stent.,INTERVENTION: , After reviewing the angiographic images, we elected to proceed with intervention of the left anterior descending artery.  The 4-French sheath in the left common femoral artery was upsized to a 12-French Impella sheath through which an Amplatz wire and a 6-French multipurpose catheter were advanced into the left ventricle.  The Amplatz wire was exchanged for an Impella 0.018-inch stiff wire.  The multipurpose catheter was removed, and the Impella was advanced into the left ventricle and a performance level of 8 was achieved with a cardiac output of 2 to 2.5 l/min.  Thereafter, a 7-French JL4 guiding catheter was used to engage the left coronary artery and an Asahi soft 0.014-inch wire was advanced into the left anterior descending artery and a second 0.014-inch Asahi soft wire was advanced into the diagonal branch.  The diagonal branch was predilated with a 2.5 x 30-mm Sprinter balloon at nominal atmospheres and thereafter a 2.5 x 24 Endeavor stent was successfully deployed in the mid-LAD and a 3.0 x 15-mm Endeavor stent was deployed in the proximal LAD.  The stent delivery balloon was used to post-dilate the overlapping segment.  The LAD, the diagonal was rewires with an 0.014-inch Asahi soft wire and a 3.0 x 20-mm Maverick balloon was advanced into the LAD for post-dilatation and a 2.0 x 30-mm Sprinter balloon was advanced into the diagonal for kissing inflations which were performed at nominal atmospheres.  At this point, it was noted that the left main had a retrograde dissection.  A 3.5 x 18-mm Endeavor stent was successfully deployed in the left main coronary artery.  The Asahi soft wire in the diagonal was removed and placed into the circumflex coronary artery.  Kissing inflations of the LAD and the circumflex coronary artery were performed using 3.0 x 20 Maverick balloons x2 balloons, inflated at high atmospheres of 14.,RESULTS: , Lesion reduction in the LAD FROM 90% to 0% and TIMI 3 flow obtained.  Lesion reduction in the diagonal from 90% to less than 60% and TIMI 3 flow obtained.  Lesion reduction in the left maintained coronary artery from 50% to 0% and TIMI 3 flow obtained.,The patient tolerated the procedure well and the inflations well with no evidence of any hemodynamic instability.  The Impella device was gradually decreased from performance level of 8 to performance level of 1 at which point it was removed into the aorta and it was turned off and the Impella was removed from the body and the 2 Perclose sutures were tightened.  From the right common femoral artery, a 6-French IMA catheter was advanced and an 0.035-inch wire down into the left common femoral and superficial femoral artery, over which an 8 x 40 balloon was advanced and tamponade of the arteriotomy site of the left common femoral artery was performed from within the artery at 3 atmospheres for a total of 20 minutes.  The right common femoral artery and vein sheaths were both sutured in place for further observation.  Of note, the patient received Angiomax during the procedure and an ACT above 300 was maintained.,IMPRESSION:,1.  Left ventricular dysfunction with ejection fraction of 10% to 15%.,2.  High complex percutaneous coronary intervention of the left main coronary artery, left anterior descending artery, and diagonal with Impella circulatory support.,COMPLICATIONS: , None.,The patient tolerated the procedure well with no complications.  The estimated blood loss was 200 ml.  Estimated dye used was 200 ml of Visipaque.  The patient remained hemodynamically stable with no hypotension and no hematomas in the groins.,PLAN:  ,1.  Aspirin, Plavix, statins, beta blockers, ACE inhibitors as tolerated.,2.  Hydration.,3.  The patient will be observed over night for any hemodynamic instability or ischemia.  If she remains stable, the right common femoral artery and vein sheaths will be removed and manual pressure will be applied for hemostasis.",
+        "expected_output": {
+            "medications_extracted": [
+                "Lidocaine",
+                "Angiomax",
+                "Aspirin",
+                "Plavix",
+                "statins",
+                "beta blockers",
+                "ACE inhibitors"
+            ],
+            "conditions": [
+                "Unstable angina",
+                "congestive heart failure",
+                "impaired LV function",
+                "right coronary artery stenosis",
+                "left main coronary artery disease",
+                "left anterior descending artery stenosis",
+                "diagonal branch stenosis",
+                "left ventricular dysfunction"
+            ],
+            "expected_ddi": [
+                {
+                    "drugs": [
+                        "Aspirin",
+                        "Plavix"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "case_id": "SILVER-029",
+        "description": "Obstetrics / Gynecology",
+        "raw_text": "Pitocin was started quickly to allow for delivery as quickly as possible and the patient rapidly became complete, and then as she began to push, there were additional decelerations of the baby's heart rate, which were suspicions of cord around the neck.  These were variable decelerations occurring late in the contraction phase.  The baby was in a +2 at a 3 station in an occiput anterior position, and so a low-forceps delivery was performed with Tucker forceps using gentle traction, and the baby was delivered with a single maternal pushing effort with retraction by the forceps.  The baby was a little bit depressed at birth because of the cord around the neck, and the cord had to be cut before the baby was delivered because of the tension, but she responded quickly to stimulus and was given an Apgar of 8 at 1 minute and 9 at 5 minutes.  The female infant seemed to weigh about 7.5 pounds, but has not been officially weighed yet.  Cord gases were sent and the placenta was sent to Pathology.  The cervix, the placenta, and the rectum all seemed to be intact.  The second-degree episiotomy was repaired with 2-O and 3-0 Vicryl.  Blood loss was about 400 mL.,Because of the hole in the dura, plan is to keep the patient horizontal through the day and a Foley catheter is left in place.  She is continuing to be attended to by the anesthesiologist who will manage the epidural catheter.  The baby's father was present for the delivery, as was one of the patient's sisters.  All are relieved and pleased with the good outcome.",
+        "expected_output": {
+            "medications_extracted": [
+                "Pitocin",
+                "Vicryl"
+            ],
+            "conditions": [
+                "cord around the neck",
+                "variable decelerations",
+                "depressed at birth",
+                "hole in the dura",
+                "second-degree episiotomy"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-030",
+        "description": "Consult - History and Phy.",
+        "raw_text": "CC:, Dysarthria,HX: ,This 52y/o RHF was transferred from a local hospital to UIHC on 10/28/94 with a history of progressive worsening of vision, dysarthria, headache, and incoordination beginning since 2/94. Her husband recalled her first difficulties became noticeable after a motor vehicle accident in 2/94. She was a belted passenger in a car struck at a stop. There was no reported head or neck injury or alteration of consciousness. She was treated and released from a local ER the same day. Her husband noted the development of mild dysarthria, incoordination, headache and exacerbation of preexisting lower back pain within 2 week of the accident. In 4/94 she developed stress urinary incontinence which spontaneously resolved in June. In 8/94, her HA changed from a dull constant aching in the bitemporal region to a sharper constant pain in the nuchal/occipital area. She also began experiencing increased blurred vision, worsening dysarthria and difficulty hand writing. In 9/94 she was evaluated by a local physician. Examination then revealed incoordination, generalized fatigue, and dysarthria. Soon after this she became poorly arousable and increasingly somnolent. She had difficulty walking and generalized weakness. On 10/14/94, she lost the ability to walk by herself. Evaluation at a local hospital revealed: 1)Normal electronystagmography, 2)two lumbar punctures which revealed some atypical mononuclear cells suggestive of \"tumor or reactive lymphocytosis.\" One of these CSF analysis showed: Glucose 16, Protein 99, WBC 14, RBC 114. Echocardiogram was normal. Bone marrow biopsy was normal except for decreased iron. Abdominal-Pelvic CT scan, CXR, Mammogram, PPD, ANA, TFT, and RPR were unremarkable. A 10/31/94 MRI brain scan a 5x10mm area of increased signal on T2 weighted images in the right remporal lobe lateral to the anterior aspect of the temporal horn, right posterolateral aspect of the midbrain, pons, and bilateral inferior surface of the cerebellum involving gray and white matter. These areas did not enhance with gadolinium contrast on T1 weighted images.,MEDS: ,none.,PMH:, 1)G3P3, 2)last menses one year ago.,FHX:, Mother suffered stroke in her 70's. DM and Htn in family.,SHX:, Married, Secretary, No h/o tobacco/ETOH/illicit drug use.,ROS:, no weight loss, fever, chills, nightsweats, cough, dysphagia.,EXAM:, BP139/74, HR 90, RR20, 36.8C,MS: Drowsy to somnolent, occasionally \"giddy.\" Oriented to person, place, time. Minimal dysarthric speech, but appropriate. MMSE 27/30 (copy of exam not in chart).,CN: Pupils 4/4 decreasing to 2/2 on exposure to light. Optic disks were flat and without sign of papilledema. VFFTC. EOM intact. No nystagmus. The rest of the CN exam was unremarkable.,Motor: 5/5 strength throughout. Normal muscle tone and bulk.,Sensory: No deficit to LT/PP/VIB/PROP.,Coord: difficulty with RAM in BUE, and ataxia on FNF and HKS in all extremities.,Station: Romberg sign present.,Gait: unsteady, wide-based, with notable difficulty on TW, TT and HW.,Reflexes: 2/2 BUE, 0/1 patellae, trace at both archilles, Plantars responses were flexor, bilaterally.,Gen Exam: unremarkable.,COURSE:, CSF analysis by lumbar puncture, 10/31/94: Protein 131mg/dl (normal 15-45), Albumin 68 (normal 14-20), IgG10mg/dl (normal <6.2), IgG index -O.1mg/24hr (normal),,No oligoclonal bands seen, WBC 33 (19lymphocytes, 1 neutrophil), RBC 29, Glucose 13, Cultures (bacteria, fungal, AFB) were negative, crytococcal Ag negative. The elevated CSF total protein, IgG, and albumin suggested breakdown of the blood brain barrier or blockage of CSF flow. The normal IgG synthesis rate and lack of oligoclonal banding did not suggest demylination. A second CSF analysis on 11/2/94 revealed similar findings; and in addition Anti-purkinje cell and Anti-neuronal antibodies (Yo and Ho) were not found; Beta-2 microglobulin was 1.8 (normal); histoplasmosis Ag negative. Serum ACE, SPEP, Urine histoplasmin were negative.,Neuropsychologic assessment, 10/28/94, raised a question of a demential syndrome, but given her response style on the MMPI (marked defensiveness, with unwillingness to admit to even very common human faults) prevented such a diagnosis. Severe defects in memory, fine motor skills, and constructional praxis were noted.,Chest-Abdominal-Pelvic CT scans were negative. 11/4/94 cerebral angiogram noted variable caliber in the RMCA, LACA and Left AICA distributions. It was intially thought that thismight be suggestive of a vasculopathy and she was treated with a short course of IV steroids. Temporal artery biopsy was unremarkable.,She underwent multiple MRI brain scans at UIHC: 11/4/94, 11/9/94, 11/16/94. All scans consistently showed increase in T2 signal in the brainstem, cerebellar peduncles and temporal lobes bilaterally. These areas did not enhance with gadolinium contrast. These findings were felt most suggestive of glioma.,She underwent left temporal lobe brain biopsy on 11/10/94: This study was inconclusive and showed evidence of atypical mononuclear cells and lymphocytes in the perivascular and subarachnoid spaces. Despite cytologic atypia the cells were felt to be reactive in nature, since immunohistochemical stains failed to disclose lymphoid clonality or non-leukocytic phenomena. Little sign of vasculopathy or tumor was found. Bacterial, fungal , HSV, CMV and AFB cultures were negative. HSV, and VZV antigen was negative.,Her neurological state progressively worsened throughout her hospital stay. By time of discharge, 12/2/94, she was very somnolent and difficult to arouse and required NGT feeding and 24hour supportive care. She was made DNR after family request prior to transfer to a care facility.",
+        "expected_output": {
+            "medications_extracted": [
+                "steroids"
+            ],
+            "conditions": [
+                "dysarthria",
+                "headache",
+                "incoordination",
+                "lower back pain",
+                "stress urinary incontinence",
+                "blurred vision",
+                "fatigue",
+                "somnolence",
+                "generalized weakness",
+                "glioma",
+                "demential syndrome",
+                "vasculopathy"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-031",
+        "description": "Surgery",
+        "raw_text": "PREOPERATIVE DIAGNOSES: , Cervical spondylosis, status post complex anterior cervical discectomy, corpectomy, decompression and fusion.,POSTOPERATIVE DIAGNOSES: , Cervical spondylosis, status post complex anterior cervical discectomy, corpectomy, decompression and fusion, and potentially unstable cervical spine.,OPERATIVE PROCEDURE:  ,Application of PMT large halo crown and vest.,ESTIMATED BLOOD LOSS: , None.,ANESTHESIA:  ,Local, conscious sedation with Morphine and Versed.,COMPLICATIONS: , None.  Post-fixation x-rays, nonalignment, no new changes.  Post-fixation neurologic examination normal.,CLINICAL HISTORY:  ,The patient is a 41-year-old female who presented to me with severe cervical spondylosis and myelopathy.  She was referred to me by Dr. X.  The patient underwent a complicated anterior cervical discectomy, 2-level corpectomy, spinal cord decompression and fusion with fibular strut and machine allograft in the large cervical plate.  Surgery had gone well, and the patient has done well in the last 2 days.  She is neurologically improved and is moving all four extremities.  No airway issues.  It was felt that the patient was now a candidate for a halo vest placement given that chance of going to the OR were much smaller.  She was consented for the procedure, and I sought the help of ABC and felt that a PMT halo would be preferable to a Bremer halo vest.  The patient had this procedure done at the bedside, in the SICU room #1.  I used a combination of some morphine 1 mg and Versed 2 mg for this procedure.  I also used local anesthetic, with 1% Xylocaine and epinephrine a total of 15 to 20 cc.,PROCEDURE DETAILS:,  The patient's head was positioned on some towels, the retroauricular region was shaved, and the forehead and the posterolateral periauricular regions were prepped with Betadine.  A large PMT crown was brought in and fixed to the skull with pins under local anesthetic.  Excellent fixation achieved.  It was lateral to the supraorbital nerves and 1 fingerbreadth above the brows and the ear pinnae.,I then put the vest on, by sitting the patient up, stabilizing her neck.  The vest was brought in from the front as well and connected.  Head was tilted appropriately, slightly extended, and in the midline.  All connections were secured and pins were torqued and tightened.,During the procedure, the patient did fine with no significant pain.,Post-procedure, she is neurologically intact and she remained intact throughout.  X-rays of the cervical spine AP, lateral, and swimmer views showed excellent alignment of the hardware construct in the graft with no new changes.,The patient will be subjected to a CT scan to further define the alignment, and barring any problems, she will be ambulating with the halo on.,The patient will undergo pin site care as per protocol, and likely she will go in the next 2 to 3 days.  Her prognosis indeed is excellent, and she is already about 90% or so better from her surgery.  She is also on a short course of Decadron, which we will wean off in due course.,The matter was discussed with the patient and the patient's family.",
+        "expected_output": {
+            "medications_extracted": [
+                "Morphine",
+                "Versed",
+                "Xylocaine",
+                "epinephrine",
+                "Decadron"
+            ],
+            "conditions": [
+                "Cervical spondylosis",
+                "myelopathy",
+                "unstable cervical spine"
+            ],
+            "expected_ddi": [
+                {
+                    "drugs": [
+                        "Morphine",
+                        "Versed"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "case_id": "SILVER-032",
+        "description": "Hematology - Oncology",
+        "raw_text": "PREOPERATIVE DIAGNOSIS: , Basal cell carcinoma (0.8 cm diameter), right medial canthus.,POSTOPERATIVE DIAGNOSIS: , Basal cell carcinoma (0.8 cm diameter), right medial canthus.,OPERATION: , Excision basal cell carcinoma (0.8 cm diameter), right medial canthus with frozen section, and reconstruction of defect (1.2 cm diameter) with glabellar rotation flap.,ANESTHESIA:,  Monitored anesthesia care.,JUSTIFICATION: , The patient is an 80-year-old white female with a biopsy-proven basal cell carcinoma of the right medial canthus.  She was scheduled for elective excision with frozen section under local anesthesia as an outpatient.,PROCEDURE: , With an intravenous infusing and under suitable premedication, the patient was placed supine on the operative table.  The face was prepped with pHisoHex draped.  The right medial canthal region and the glabellar region were anesthetized with 1% Xylocaine with 1:100,000 epinephrine.,Under loupe magnification, the lesion was excised with 2 mm margins, oriented with sutures and submitted for frozen section pathology.  The report was \"basal cell carcinoma with all margins free of tumor.\"  Hemostasis was controlled with the Bovie.  Excised lesion diameter was 1.2 cm.  The defect was closed by elevating a left laterally based rotation flap utilizing the glabellar skin.  The flap was elevated with a scalpel and Bovie, rotated into the defect without tension, ***** to the defect with scissors and inset in layer with interrupted 5-0 Vicryl for the dermis and running 5-0 Prolene for the skin.  Donor site was closed in V-Y fashion with similar suture technique.,The wounds were dressed with bacitracin ointment.  The patient was returned to the recovery room in satisfactory condition.  She tolerated the procedure satisfactorily, and then no complications.  Blood loss was essentially nil.",
+        "expected_output": {
+            "medications_extracted": [
+                "pHisoHex",
+                "Xylocaine",
+                "epinephrine",
+                "Vicryl",
+                "Prolene",
+                "bacitracin"
+            ],
+            "conditions": [
+                "Basal cell carcinoma"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-033",
+        "description": "Gastroenterology",
+        "raw_text": "EXAM: , Modified barium swallow.,SYMPTOM:,  Dysphagia with possible aspiration.,FINDINGS:,  A cookie deglutition study was performed.  The patient was examined in the direct lateral position.,Patient was challenged with thin liquids, thick liquid, semisolids and solids.,Persistently demonstrable is the presence of penetration with thin liquids.  This is not evident with thick liquids, semisolids or solids.,There is weakness in the oral phase of deglutition.  Subglottic region appears normal.  There is no evidence of aspiration demonstrated.,IMPRESSION: , Penetration demonstrated with thin liquids with weakness of the oral phase of deglutition.",
+        "expected_output": {
+            "medications_extracted": [],
+            "conditions": [
+                "Dysphagia",
+                "Aspiration",
+                "Penetration",
+                "Weakness in the oral phase of deglutition"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-034",
+        "description": "SOAP / Chart / Progress Notes",
+        "raw_text": "SUBJECTIVE: , The patient states she is feeling a bit better.,OBJECTIVE:,VITAL SIGNS:  Temperature is 95.4.  Highest temperature recorded over the past 24 hours is 102.1.,CHEST:  Examination of the chest is clear to auscultation.,CARDIOVASCULAR:  First and second heart sounds were heard.  No murmurs appreciated.,ABDOMEN:  Benign.  Right renal angle is tender.  Bowel sounds are positive.,EXTREMITIES:  There is no swelling.,NEUROLOGIC:  The patient is alert and oriented x3.  Examination is nonfocal.,LABORATORY DATA: , White count is down from 35,000 to 15.5.  Hemoglobin is 9.5, hematocrit is 30, and platelets are 269,000.  BUN is down to 22, creatinine is within normal limits.,ASSESSMENT AND PLAN:,1.  Sepsis due to urinary tract infection.  Urine culture shows Escherichia coli, resistant to Levaquin.  We changed to doripenem.,2.  Urinary tract infection, we will treat with doripenem, change Foley catheter,3.  Hypotension.  Resolved, continue intravenous fluids.,4.  Ischemic cardiomyopathy.  No evidence of decompensation, we with monitor.,5.  Diabetes type 2.  Uncontrolled.  Continue insulin sliding scale.,6.  Recent pulmonary embolism, INR is above therapeutic range, Coumadin is on hold, we will monitor.,7.  History of coronary artery disease.  Troponin indeterminate.  Cardiologist intends no further workup.  Continue medical treatment.  Most likely troponin is secondary to impaired clearance.",
+        "expected_output": {
+            "medications_extracted": [
+                "Levaquin",
+                "doripenem",
+                "insulin",
+                "Coumadin"
+            ],
+            "conditions": [
+                "Sepsis",
+                "urinary tract infection",
+                "Escherichia coli",
+                "Hypotension",
+                "Ischemic cardiomyopathy",
+                "Diabetes type 2",
+                "pulmonary embolism",
+                "coronary artery disease"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-035",
+        "description": "Cardiovascular / Pulmonary",
+        "raw_text": "CHIEF REASON FOR CONSULTATION:,  Evaluate recurrent episodes of uncomfortable feeling in the left upper arm at rest, as well as during exertion for the last one month.,HISTORY OF PRESENT ILLNESS:,  This 57-year-old black female complains of having pain and discomfort in the left upper arm, especially when she walks and after heavy meals.  This lasts anywhere from a few hours and is not associated with shortness of breath, palpitations, dizziness, or syncope.  Patient does not get any chest pain or choking in the neck or pain in the back.  Patient denies history of hypertension, diabetes mellitus, enlarged heart, heart murmur, history suggestive of previous myocardial infarction, or acute rheumatic polyarthritis during childhood.  Her exercise tolerance is one to two blocks for shortness of breath and easy fatigability.,MEDICATIONS:,  Patient does not take any specific medications.,PAST HISTORY:,  The patient underwent hysterectomy in 1986.,FAMILY HISTORY:,  The patient is married, has four children who are doing fine.  Family history is positive for hypertension, congestive heart failure, obesity, cancer, and cerebrovascular accident.,SOCIAL HISTORY:, The patient smokes one pack of cigarettes per day and takes drinks on social occasions.",
+        "expected_output": {
+            "medications_extracted": [],
+            "conditions": [
+                "recurrent episodes of uncomfortable feeling in the left upper arm",
+                "shortness of breath",
+                "easy fatigability",
+                "hypertension",
+                "congestive heart failure",
+                "obesity",
+                "cancer",
+                "cerebrovascular accident"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-036",
+        "description": "Gastroenterology",
+        "raw_text": "1.  Odynophagia.,2.  Dysphagia.,3.  Gastroesophageal reflux disease rule out stricture.,POSTOPERATIVE DIAGNOSES:,1.  Antral gastritis.,2.  Hiatal hernia.,PROCEDURE PERFORMED:  EGD with photos and biopsies.,GROSS FINDINGS:  This is a 75-year-old female who presents with difficulty swallowing, occasional choking, and odynophagia.  She has a previous history of hiatal hernia.  She was on Prevacid currently.  At this time, an EGD was performed to rule out stricture.  At the time of EGD, there was noted some antral gastritis and hiatal hernia.  There are no strictures, tumors, masses, or varices present.,OPERATIVE PROCEDURE:  The patient was taken to the Endoscopy Suite in the lateral decubitus position.  She was given sedation by the Department Of Anesthesia.  Once adequate sedation was reached, the Olympus gastroscope was inserted into oropharynx.  With air insufflation entered through the proximal esophagus to the GE junction.  The esophagus was without evidence of tumors, masses, ulcerations, esophagitis, strictures, or varices.  There was a hiatal hernia present.  The scope was passed through the hiatal hernia into the body of the stomach.  In the distal antrum, there was some erythema with patchy erythematous changes with small superficial erosions.  Multiple biopsies were obtained.  The scope was passed through the pylorus into the duodenal bulb and duodenal suite, they appeared within normal limits.  The scope was pulled back from the stomach, retroflexed upon itself, _____ fundus and GE junction.  As stated, multiple biopsies were obtained.,The scope was then slowly withdrawn.  The patient tolerated the procedure well and sent to recovery room in satisfactory condition.",
+        "expected_output": {
+            "medications_extracted": [
+                "Prevacid"
+            ],
+            "conditions": [
+                "Odynophagia",
+                "Dysphagia",
+                "Gastroesophageal reflux disease",
+                "Antral gastritis",
+                "Hiatal hernia"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-037",
+        "description": "Discharge Summary",
+        "raw_text": "ADMISSION DIAGNOSIS: , Symptomatic cholelithiasis.,DISCHARGE DIAGNOSIS:,  Symptomatic cholelithiasis.,SERVICE: , Surgery.,CONSULTS:,  None.,HISTORY OF PRESENT ILLNESS: , Ms. ABC is a 27-year-old woman who apparently presented with complaint of symptomatic cholelithiasis.  She was afebrile.  She was taken by Dr. X to the operating room.,HOSPITAL COURSE: , The patient underwent a procedure.  She tolerated without difficulty.  She had her pain controlled with p.o. pain medicine.  She was afebrile.  She is tolerating liquid diet.  It was felt that the patient is stable for discharge.  She did complain of bladder spasms when she urinated and she did say that she has a history of chronic UTIs.  We will check a UA and urine culture prior to discharge.  I will give her prescription for ciprofloxacin that she can take for 3 days presumptively and I have discharged her home with omeprazole and Colace to take over-the-counter for constipation and we will send her home with Percocet for pain.  Her labs were within normal limits.  She did have an elevated white blood cell count, but I believe this is just leukemoid reaction, but she is afebrile, and if she does have UTI, may also be related.  Her labs in terms of her bilirubin were within normal limits.  Her LFTs were slightly elevated, I do believe this is related to the cautery used on the liver bed.  They were 51 and 83 for the AST and ALT respectively.  I feel that she looks good for discharge.,DISCHARGE INSTRUCTIONS: , Clear liquid diet x48 hours and she can return to her Medifast, she may shower.  She needs to keep her wound clean and dry.  She is not to engage in any heavy lifting greater than 10 pounds x2 weeks.  No driving for 1 to 2 weeks.  She must be able to stop in an emergency and be off narcotic meds, no strenuous activity, but she needs to maintain mobility.  She can resume her medications per med rec sheets.,DISCHARGE MEDICATIONS: , As previously mentioned.,FOLLOWUP:,  We will follow up on both urinalysis and cultures.  She is instructed to follow up with Dr. X in 2 weeks.  She needs to call for any shortness of breath, temperature greater than 101.5, chest pain, intractable nausea, vomiting, and abdominal pain, any redness, swelling or foul smelling drainage from her wounds.",
+        "expected_output": {
+            "medications_extracted": [
+                "ciprofloxacin",
+                "omeprazole",
+                "Colace",
+                "Percocet"
+            ],
+            "conditions": [
+                "symptomatic cholelithiasis",
+                "chronic UTIs",
+                "constipation",
+                "leukemoid reaction"
+            ],
+            "expected_ddi": [
+                {
+                    "drugs": [
+                        "ciprofloxacin",
+                        "omeprazole"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "case_id": "SILVER-038",
+        "description": "Orthopedic",
+        "raw_text": "PREOPERATIVE DIAGNOSIS: , Septic left total knee arthroplasty.,POSTOPERATIVE DIAGNOSIS: , Septic left total knee arthroplasty.,OPERATION PERFORMED: , Arthroscopic irrigation and debridement of same with partial synovectomy.,ANESTHESIA:,  LMA.,ESTIMATED BLOOD LOSS:,  Minimal.,COMPLICATIONS: , None.,DRAINS:,  None.,INDICATIONS:,  The patient is an 81-year-old female, who is approximately 10 years status post total knee replacement performed in another state, who presented a couple of days ago to the office with worsening pain without injury and whose symptoms have been present for approximately a month following a possible urinary tract infection.  The patient' knee was aspirated in the office and cultures were positive for Escherichia coli.  She presents for operative therapy.,DESCRIPTION OF OPERATION: , After obtaining informed consent and the administration of antibiotics since her cultures had already been obtained, the patient was taken to the operating room and following satisfactory induction and the patient was placed on the table in supine position.  The left upper extremity was prepped and draped without a tourniquet.  The knee was injected with 30 mL of normal saline and standard arthroscopy portals were created.  The arthroscopy was inserted and a complete diagnostic was performed.  Arthroscopic pictures were taken throughout the procedure.  The knee was copiously irrigated with 9 L of irrigant.  A partial synovectomy was performed in all compartments.  Minimal amount of polyethylene wear was noted.  The total knee components were identified arthroscopically for future revision surgery.  The knee was then drained and the arthroscopic instruments were removed.  The portals were closed with 4-0 nylon and local anesthetic was injected.  A sterile dressing was applied and the patient was placed in a knee immobilizer, awakened from anesthesia and transported to the recovery room in stable condition and tolerated the procedure well.",
+        "expected_output": {
+            "medications_extracted": [
+                "antibiotics",
+                "normal saline",
+                "nylon",
+                "local anesthetic"
+            ],
+            "conditions": [
+                "Septic left total knee arthroplasty",
+                "urinary tract infection",
+                "Escherichia coli"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-039",
+        "description": "Neurosurgery",
+        "raw_text": "PREOPERATIVE DIAGNOSIS:,  Right occipital arteriovenous malformation.,POSTOPERATIVE DIAGNOSIS:,  Right occipital arteriovenous malformation.,PROCEDURE PERFORMED:,  CT-guided frameless stereotactic radiosurgery for the right occipital arteriovenous malformation using dynamic tracking.,Please note no qualified resident was available to assist in the procedure.,INDICATION: , The patient is a 30-year-old male with a right occipital AVM.  He was referred for stereotactic radiosurgery.  The risks of the radiosurgical treatment were discussed with the patient including, but not limited to, failure to completely obliterate the AVM, need for additional therapy, radiation injury, radiation necrosis, headaches, seizures, visual loss, or other neurologic deficits.  The patient understands these risks and would like to proceed.,PROCEDURE IN DETAIL: , The patient arrived to Outpatient CyberKnife Suite one day prior to the treatment.  He was placed on the treatment table.  The Aquaplast mask was constructed.  Initial imaging was obtained by the CyberKnife system.  The patient was then transported over to the CT scanner at Stanford.  Under the supervision of Dr. X, 125 mL of Omnipaque 250 contrast was administered.  Dr. X then supervised the acquisition of 1.2-mm contiguous axial CT slices.  These images were uploaded over the hospital network to the treatment planning computer, and the patient was discharged home.,Treatment plan was then performed by me.  I outlined the tumor volume.  Inverse treatment planning was used to generate the treatment plan for this patient.  This resulted in a total dose of 20 Gy delivered to 84% isodose line using a 12.5 mm collimator.  The maximum dose within this center of treatment volume was 23.81 Gy.  The volume treated was 2.972 mL, and the treated lesion dimensions were 1.9 x 2.7 x 1.6 cm.  The volume treated at the reference dose was 98%.  The coverage isodose line was 79%.  The conformality index was 1.74 and modified conformality index was 1.55.  The treatment plan was reviewed by me and Dr. Y of Radiation Oncology, and the treatment plan was approved.,On the morning of May 14, 2004, the patient arrived at the Outpatient CyberKnife Suite.  He was placed on the treatment table.  The Aquaplast mask was applied.  Initial imaging was used to bring the patient into optimal position.  The patient underwent stereotactic radiosurgery to deliver the 20 Gy to the AVM margin.  He tolerated the procedure well.  He was given 8 mg of Decadron for prophylaxis and discharged home.,Followup will consist of an MRI scan in 6 months.  The patient will return to our clinic once that study is completed.,I was present and participated in the entire procedure on this patient consisting of CT-guided frameless stereotactic radiosurgery for the right occipital AVM.,Dr. X was present during the entire procedure and will be dictating his own operative note.",
+        "expected_output": {
+            "medications_extracted": [
+                "Omnipaque 250",
+                "Decadron"
+            ],
+            "conditions": [
+                "Right occipital arteriovenous malformation"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-040",
+        "description": "Diets and Nutritions",
+        "raw_text": "SUBJECTIVE:,  This is a 62-year-old female who comes for dietary consultation for carbohydrate counting for type I diabetes.  The patient reports that she was hospitalized over the weekend for DKA.  She indicates that her blood sugar on Friday night was 187 at bedtime and that when she woke up in the morning her blood sugar was 477.  She gave herself, in smaller increments, a total of 70 extra units of her Humalog.  Ten of those units were injectable; the others were in the forms of pump.  Her blood sugar was over 600 when she went to the hospital later that day.  She is here at this consultation complaining of not feeling well still because she has a cold.  She realizes that this is likely because her immune system was so minimized in the hospital.,OBJECTIVE:,  Current insulin doses on her insulin pump are boluses set at 5 units at breakfast, 6 units at lunch and 11 units at supper.  Her basal rates have not been changed since her last visit with Charla Yassine and totaled 30.5 units per 24 hours.  A diet history was obtained.  I instructed the patient on carbohydrate counting at 1 unit of insulin for every 10 g carbohydrate ratio was recommended.  A correction dose of approximately 1 unit of insulin to bring the blood sugars down 30 mg/dl was also recommended.  The Lilly guide for meal planning was provided and reviewed.  Additional carbohydrate counting book was provided.,ASSESSMENT:,  The patient was taught an insulin-to-carbohydrate ratio of 1 unit to 10 g of carbohydrates as recommended at the previous visit two years ago, which she does not recall.  It is based on the 500 rule which suggests this ratio.  We did identify carbohydrate sources in the food supply, recognizing 15-g equivalents.  We also identified the need to dose her insulin at the time that she is eating her carbohydrate sources.  She does seem to have a pattern of fixing blood sugars later in the day after they are elevated.  We discussed the other option of trying to eat a consistent amount of carbohydrates at meals from day to day and taking a consistent amount of insulin at those meals.  With this in mind, she was recommended to follow with three servings or 45 g of carbohydrate at breakfast, three servings or 45 g of carbohydrate at lunch and four servings or 60 g of carbohydrate at dinner.  Joanne Araiza joined our consultation briefly to discuss whether her pump was working appropriately.  The patient was given an 800 number for the pump to contact should there be any question about its failure to deliver insulin appropriately.,PLAN:,  Recommend the patient use 1 unit of insulin for every 10-g carbohydrate load consumed.  Recommend the patient either use this as a carbohydrate counting tool or work harder at keeping carbohydrate content consistent at meals from day to day.  This was a one-hour consultation.  Provided my name and number should additional needs arise.",
+        "expected_output": {
+            "medications_extracted": [
+                "Humalog"
+            ],
+            "conditions": [
+                "type I diabetes",
+                "DKA",
+                "cold"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-041",
+        "description": "Consult - History and Phy.",
+        "raw_text": "REASON FOR VISIT:,  The patient is an 11-month-old with a diagnosis of stage 2 neuroblastoma here for ongoing management of his disease and the visit is supervised by Dr. X.,HISTORY OF PRESENT ILLNESS: , The patient is an 11-month-old with neuroblastoma, which initially presented on the left when he was 6 weeks old and was completely resected.  It was felt to be stage 2.  It was not N-Myc amplified and had favorable Shimada histology.  In followup, he was found to have a second primary in his right adrenal gland, which was biopsied and also consistent with neuroblastoma with favorable Shimada histology.  He is now being treated with chemotherapy per protocol P9641 and not on study.  He last received chemotherapy on 05/21/07, with carboplatin, cyclophosphamide, and doxorubicin.  He received G-CSF daily after his chemotherapy due to neutropenia that delayed his second cycle.  In the interval since he was last seen, his mother reports that he had a couple of days of nasal congestion, but it is now improving.  He is not acted ill or had any fevers.  He has had somewhat diminished appetite, but it seems to be improving now.  He is peeing and pooping normally and has not had any diarrhea.  He did not have any appreciated nausea or vomiting.  He has been restarted on fluconazole due to having redeveloped thrush recently.,REVIEW OF SYSTEMS: , The following systems reviewed and negative per pathology except as noted above.  Eyes, ears, throat, cardiovascular, GI, genitourinary, musculoskeletal skin, and neurologic., PAST MEDICAL HISTORY:,  Reviewed as above and otherwise unchanged.,FAMILY HISTORY:,  Reviewed and unchanged.,SOCIAL HISTORY: , The patient's parents continued to undergo a separation and divorce.  The patient spends time with his father and his family during the first part of the week and with his mother during the second part of the week.,MEDICATIONS:  ,1.  Bactrim 32 mg by mouth twice a day on Friday, Saturday, and Sunday.,2.  G-CSF 50 mcg subcutaneously given daily in his thighs alternating with each dose.,3.  Fluconazole 37.5 mg daily.,4.  Zofran 1.5 mg every 6 hours as needed for nausea.,ALLERGIES: , No known drug allergies.,FINDINGS: , A detailed physical exam revealed a very active and intractable, well-nourished 11-month-old male with weight 10.5 kilos and height 76.8 cm.  Vital Signs:  Temperature is 35.3 degrees Celsius, pulse is 121 beats per minute, respiratory rate 32 breaths per minute, blood pressure 135/74 mmHg.  Eyes:  Conjunctivae are clear, nonicteric.  Pupils are equally round and reactive to light.  Extraocular muscle movements appear intact with no strabismus.  Ears:  TMs are clear bilaterally.  Oral Mucosa:  No thrush is appreciated.  No mucosal ulcerations or erythema.  Chest:  Port-a-Cath is nonerythematous and nontender to VP access port.  Respiratory:  Good aeration, clear to auscultation bilaterally.  Cardiovascular:  Regular rate, normal S1 and S2, no murmurs appreciated.  Abdomen is soft, nontender, and no organomegaly, unable to appreciate a right-sided abdominal mass or any other masses.  Skin:  No rashes.  Neurologic:  The patient walks without assistance, frequently falls on his bottom.,LABORATORY STUDIES: , CBC and comprehensive metabolic panel were obtained and they are significant for AST 51, white blood cell count 11,440, hemoglobin 10.9, and platelets 202,000 with ANC 2974.  Medical tests none.  Radiologic studies are none.,ASSESSMENT: , This patient's disease is life threatening, currently causing moderately severe side effects.,PROBLEMS DIAGNOSES:  ,1.  Neuroblastoma of the right adrenal gland with favorable Shimada histology.,2.  History of stage 2 left adrenal neuroblastoma, status post gross total resection.,3.  Immunosuppression.,4.  Mucosal candidiasis.,5.  Resolving neutropenia.,PROCEDURES AND IMMUNIZATIONS:,  None.,PLANS:  ,1.  Neuroblastoma.  The patient will return to the Pediatric Oncology Clinic on 06/13/07 to 06/15/07 for his third cycle of chemotherapy.  I will plan for restaging with CT of the abdomen prior to the cycle.,2.  Immunosuppression.  The patient will continue on his Bactrim twice a day on Thursday, Friday, and Saturday.  Additionally, we will tentatively plan to have him continue fluconazole since this is his second episode of thrush.,3.  Mucosal candidiasis.  We will continue fluconazole for thrush.  I am pleased that the clinical evidence of disease appears to have resolved.  For resolving neutropenia, I advised Gregory's mother about it is okay to discontinue the G-CSF at this time.  We will plan for him to resume G-CSF after his next chemotherapy and prescription has been sent to the patient's pharmacy.,PEDIATRIC ONCOLOGY ATTENDING: , I have reviewed the history of the patient.  This is an 11-month-old with neuroblastoma who received chemotherapy with carboplatin, cyclophosphamide, and doxorubicin on 05/21/07 for cycle 2 of POG-9641 due to his prior history of neutropenia, he has been on G-CSF.  His ANC is nicely recovered.  He will have a restaging CT prior to his next cycle of chemotherapy and then return for cycle 3 chemotherapy on 06/13/07 to 06/15/07.  He continues on fluconazole for recent history of thrush.  Plans are otherwise documented above.",
+        "expected_output": {
+            "medications_extracted": [
+                "carboplatin",
+                "cyclophosphamide",
+                "doxorubicin",
+                "G-CSF",
+                "fluconazole",
+                "Bactrim",
+                "Zofran"
+            ],
+            "conditions": [
+                "neuroblastoma",
+                "neutropenia",
+                "thrush",
+                "mucosal candidiasis",
+                "immunosuppression"
+            ],
+            "expected_ddi": [
+                {
+                    "drugs": [
+                        "fluconazole",
+                        "Zofran"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "case_id": "SILVER-042",
+        "description": "Surgery",
+        "raw_text": "PROCEDURE:, Esophagogastroduodenoscopy with biopsy and snare polypectomy.,INDICATION FOR THE PROCEDURE:, Iron-deficiency anemia.,MEDICATIONS:, MAC.,The risks of the procedure were made aware to the patient and consisted of medication reaction, bleeding, perforation, and aspiration.,PROCEDURE:, After informed consent and appropriate sedation, the upper endoscope was inserted into the oropharynx down into the stomach and beyond the pylorus and the second portion of the duodenum. The duodenal mucosa was completely normal. The pylorus was normal. In the stomach, there was evidence of diffuse atrophic-appearing nodular gastritis. Multiple biopsies were obtained. There also was a 1.5-cm adenomatous appearing polyp along the greater curvature at the junction of the body and antrum. There was mild ulceration on the tip of this polyp. It was decided to remove the polyp via snare polypectomy. Retroflexion was performed, and this revealed a small hiatal hernia in the distal esophagus. The Z-line was identified and was unremarkable. The esophageal mucosa was normal.,FINDINGS:,1. Hiatal hernia.,2. Diffuse nodular and atrophic appearing gastritis, biopsies taken.,3. A 1.5-cm polyp with ulceration along the greater curvature, removed.,RECOMMENDATIONS:,1. Follow up biopsies.,2. Continue PPI.,3. Hold Lovenox for 5 days.,4. Place SCDs.",
+        "expected_output": {
+            "medications_extracted": [
+                "MAC",
+                "PPI",
+                "Lovenox"
+            ],
+            "conditions": [
+                "Iron-deficiency anemia",
+                "Diffuse atrophic-appearing nodular gastritis",
+                "Adenomatous polyp",
+                "Hiatal hernia"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-043",
+        "description": "Orthopedic",
+        "raw_text": "PREOPERATIVE DIAGNOSIS:  ,Cervical spondylosis and herniated nucleus pulposus of C4-C5.,POSTOPERATIVE DIAGNOSIS:,  Cervical spondylosis and herniated nucleus pulposus of C4-C5.,TITLE OF OPERATION:,  Anterior cervical discectomy C4-C5 arthrodesis with 8 mm lordotic ACF spacer, corticocancellous, and stabilization with Synthes Vector plate and screws.,ESTIMATED BLOOD LOSS:,  Less than 100 mL.,OPERATIVE PROCEDURE IN DETAIL: , After identification, the patient was taken to the operating room and placed in supine position.  Following the induction of satisfactory general endotracheal anesthesia, the patient was prepared for surgery.  A shoulder roll was placed between the scapula and the head was rested on a doughnut in a slightly extended position.  A preoperative x-ray was obtained to identify the operative level and neck position.  An incision was marked at the C4-C5 level on the right side.  The incision was opened with #10 blade knife.  Dissection was carried down through subcutaneous tissues using Bovie electrocautery.  The platysma muscle was divided with the cautery and mobilized rostrally and caudally.  The anterior border of sternocleidomastoid muscle was then dissected rostrally and caudally with sharp and blunt dissection.  The avascular plane was then entered and dissection was carried bluntly down to the anterior cervical fascia.  This was opened with scissors and dissected rostrally and caudally with the peanut dissectors.  The operative level was confirmed with an intraoperative x-ray.  The longus colli muscles were mobilized bilaterally using bipolar electrocautery and periosteal elevator.  The anterior longitudinal ligament was then taken down with the insulated Bovie electrocautery tip exposing the vertebral bodies of C4 and C5.  Self-retaining retractor was placed in submuscular position, and distraction pins were placed in the vertebral bodies of C4 and C5, and distraction was instituted.  We then incise the annulus of C4-C5 and a discectomy was now carried out using pituitary rongeurs and straight and angled curettes.  Operating microscope was draped and brought into play.  Dissection was carried down through the disc space to the posterior aspect of the disc space removing the disc with the angled curette as we went.  We now use the diamond bit to thin the posterior bone spurs and osteophytes at the uncovertebral joints bilaterally.  Bone was then removed with 2 mm Kerrison punch and then we were able to traverse the posterior longitudinal ligament and this ligament was now removed in a piecemeal fashion with a 2 mm Kerrison punch.  There was a transligamentous disc herniation, which was removed during this process.  We then carried out bilateral foraminotomies with removal of the uncovertebral osteophytes until the foramina were widely patent.  Cord was seen to be pulsating freely behind the dura.  There appeared to be no complications and the decompression appeared adequate.  We now used a cutting bit to prepare the inner space for arthrodesis fashioning a posterior ledge on the posterior aspect of the C5 vertebral body.  An 8 mm lordotic trial was used and appeared perfect.  We then used a corticocancellous 8 mm lordotic graft.  This was tapped into position.  Distraction was released, appeared to be in excellent position.  We then positioned an 18 mm Vector plate over the inner space.  Intraoperative x-ray was obtained with the stay screw in place; plates appeared to be in excellent position.  We then use a 14 mm self-tapping variable angle screws in each of the four locations drilling 14 mm pilot holes at each location prior to screw insertion.  All of the screws locked to the plate and this was confirmed on visual inspection.  Intraoperative x-ray was again obtained.  Construct appeared satisfactory.  Attention was then directed to closure.  The wound was copiously irrigated.  All of the self-retaining retractors were removed.  Bleeding points were controlled with bone wax and bipolar electrocautery.  The platysma layer was now closed with interrupted 3-0 Vicryl sutures.  The skin was closed with running 3-0 Vicryl subcuticular stitch.  Steri-Strips were applied.  A sterile bandage was applied.  All sponge, needle, and cottonoid counts were reported as correct.  The patient tolerated the procedure well.  He was subsequently extubated in the operating room and transferred to PACU in satisfactory condition.",
+        "expected_output": {
+            "medications_extracted": [],
+            "conditions": [
+                "Cervical spondylosis",
+                "Herniated nucleus pulposus of C4-C5"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-044",
+        "description": "Neurology",
+        "raw_text": "XYZ,RE:  ABC,MEDICAL RECORD#:  123,Dear Dr. XYZ:,I saw ABC back in Neuro-Oncology Clinic today.  He comes in for an urgent visit because of increasing questions about what to do next for his anaplastic astrocytoma.,Within the last several days, he has seen you in clinic and once again discussed whether or not to undergo radiation for his left temporal lesion.  The patient has clearly been extremely ambivalent about this therapy for reasons that are not immediately apparent.  It is clear that his MRI is progressing and that it seems unlikely at this time that anything other than radiation would be particularly effective.  Despite repeatedly emphasizing this; however, the patient still is worried about potential long-term side effects from treatment that frankly seem unwarranted at this particular time.,After seeing you in clinic, he and his friend again wanted to discuss possible changes in the chemotherapy regimen.  They came in with a list of eight possible agents that they would like to be administered within the next two weeks.  They then wanted another MRI to be performed and they were hoping that with the use of this type of approach, they might be able to induce another remission from which he can once again be spared radiation.,From my view, I noticed a man whose language has deteriorated in the week since I last saw him.  This is very worrisome.  Today, for the first time, I felt that there was a definite right facial droop as well.  Therefore, there is no doubt that he is becoming symptomatic from his growing tumor.  It suggests that he is approaching the end of his compliance curve and that the things may rapidly deteriorate in the near future.,Emphasizing this once again, in addition, to recommending steroids I once again tried to convince him to undergo radiation.  Despite an hour, this again amazingly was not possible.  It is not that he does not want treatment, however.  Because I told him that I did not feel it was ethical to just put him on the radical regimen that him and his friend devised, we compromised and elected to go back to Temodar in a low dose daily type regimen.  We would plan on giving 75 mg/sq m everyday for 21 days out of 28 days.  In addition, we will stop thalidomide 100 mg/day.  If he tolerates this for one week, we then agree that we would institute another one of the medications that he listed for us.  At this stage, we are thinking of using Accutane at that point.,While I am very uncomfortable with this type of approach, I think as long as he is going to be monitored closely that we may be able to get away with this for at least a reasonable interval.  In the spirit of compromise, he again consented to be evaluated by radiation and this time, seemed more resigned to the fact that it was going to happen sooner than later.  I will look at this as a positive sign because I think radiation is the one therapy from which he can get a reasonable response in the long term.,I will keep you apprised of followups.  If you have any questions or if I could be of any further assistance, feel free to contact me.,Sincerely,",
+        "expected_output": {
+            "medications_extracted": [
+                "steroids",
+                "Temodar",
+                "thalidomide",
+                "Accutane"
+            ],
+            "conditions": [
+                "anaplastic astrocytoma",
+                "left temporal lesion",
+                "right facial droop"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-045",
+        "description": "Surgery",
+        "raw_text": "PREOPERATIVE DIAGNOSIS: , Bladder tumor.,POSTOPERATIVE DIAGNOSIS: , Bladder tumor.,PROCEDURE PERFORMED: , Transurethral resection of a medium bladder tumor (TURBT), left lateral wall.,ANESTHESIA: , Spinal.,SPECIMEN TO PATHOLOGY: , Bladder tumor and specimen from base of bladder tumor.,DRAINS: , A 22-French 3-way Foley catheter, 30 mL balloon.,ESTIMATED BLOOD LOSS:,  Minimal.,INDICATIONS FOR PROCEDURE: , This is a 74-year-old male who presented with microscopic and an episode of gross hematuria.  He underwent an IVP, which demonstrated enlarged prostate and normal upper tracts.  Cystoscopy in the office demonstrated a 2.5- to 3-cm left lateral wall bladder tumor.  He is brought to the operating room for transurethral resection of that bladder tumor.,DESCRIPTION OF OPERATION: , After preoperative counseling of the patient and his wife, the patient was taken to the operating room and administered a spinal anesthetic.  He was placed in lithotomy position and prepped and draped in the usual fashion.  Using the visual obturator, the resectoscope was then inserted per urethra into the bladder.  The bladder was inspected confirming previous cystoscopic findings of a 2.5- to 3-cm left lateral wall bladder tumor away from the ureteral orifice.  Using the resectoscope loop, the tumor was then resected down to its base in a stepwise fashion.  Following completion of resection down to the base, the bladder was _______ free of tumor specimen.  The resectoscope was then reinserted and the base of the bladder tumor was then resected to get the base of the bladder tumor specimen, this was sent as a separate pathological specimen.  Hemostasis was assured with electrocautery.  The base of the tumor was then fulgurated again and into the periphery out in the normal mucosa surrounding the base of the bladder tumor.  Following completion of the fulguration, there was good hemostasis.  The remainder of the bladder was without evidence of significant abnormality.  Both ureteral orifices were visualized and noted to drain freely of clear urine.  The bladder was filled and the resectoscope was removed.  A 22-French 3-way Foley catheter was inserted per urethra into the bladder.  The balloon was inflated to 30 mL.  The catheter with sterile continuous irrigation and was noted to drain clear irrigant.  The patient was then removed from lithotomy position.  He was in stable condition.",
+        "expected_output": {
+            "medications_extracted": [],
+            "conditions": [
+                "Bladder tumor",
+                "Enlarged prostate",
+                "Hematuria"
+            ],
+            "expected_ddi": []
+        }
+    },
+    {
+        "case_id": "SILVER-046",
+        "description": "Orthopedic",
+        "raw_text": "CHIEF COMPLAINT: , Chronic low back, left buttock and leg pain.,HISTORY OF PRESENT ILLNESS: , This is a pleasant 49-year-old gentleman post lumbar disc replacement from January 2005.  Unfortunately, the surgery and interventional procedures have not been helpful in alleviating his pain.  He has also tried acupuncture, TENS unit, physical therapy, chiropractic treatment and multiple neuropathic medications including Elavil, Topamax, Cymbalta, Neurontin, and Lexapro, which he discontinued either due to side effects or lack of effectiveness in decreasing his pain.  Most recently, he has had piriformis injections, which did give him a brief period of relief; however, he reports that the Botox procedure that was done on March 8, 2006 has not given him any relief from his buttock pain.  He states that approximately 75% of his pain is in his buttock and leg and 25% in his back.  He has tried to increase in his activity with walking and does note increased spasm with greater activity in the low back.  He rated his pain today as 6/10, describing it is shooting, sharp and aching.  It is increased with lifting, prolonged standing or walking and squatting, decreased with ice, reclining and pain medication.  It is constant but variable in degree.  It continues to affect activities and sleep at night as well as mood at times.  He is currently not satisfied completely with his level of pain relief.,MEDICATIONS: , Kadian 30 mg b.i.d., Zanaflex one-half to one tablet p.r.n. spasm, and Advil p.r.n.,ALLERGIES:,  No known drug allergies.,REVIEW OF SYSTEMS:,  Complete multisystem review was noted and signed in the chart.,SOCIAL HISTORY:,  Unchanged from prior visit.,PHYSICAL EXAMINATION: , Blood pressure 123/87, pulse 89, respirations 18, and weight 220 lbs.  He is a well-developed obese male in no acute distress.  He is alert and oriented x3, and displays normal mood and affect with no evidence of acute anxiety or depression.  He ambulates with normal gait and has normal station.  He is able to heel and toe walk.  He denies any sensory changes.,ASSESSMENT & PLAN: , This is a pleasant 49-year-old with chronic pain plus lumbar disk replacement with radiculitis and myofascial complaints.  We discussed treatment options at length and he is willing to undergo a trial of Lyrica.,He is sensitive to medications based on his past efforts and is given a prescription for 150 mg that he will start at bedtime.  We discussed the up taper schedule and he understands that he will have to be on this for some time before we can decide whether or not it is helpful to him.  We also briefly touched on the possibility of a spinal cord stimulator trial if this medication is not helpful to him.  He will call me if there are any issues with the new prescription and follow in four weeks for reevaluation.",
+        "expected_output": {
+            "medications_extracted": [
+                "Kadian",
+                "Zanaflex",
+                "Advil",
+                "Lyrica"
+            ],
+            "conditions": [
+                "Chronic low back pain",
+                "Left buttock pain",
+                "Leg pain",
+                "Lumbar disc replacement",
+                "Radiculitis",
+                "Myofascial complaints",
+                "Obesity"
+            ],
+            "expected_ddi": [
+                {
+                    "drugs": [
+                        "Kadian",
+                        "Zanaflex"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "case_id": "SILVER-047",
+        "description": "General Medicine",
+        "raw_text": "CHIEF COMPLAINT:  ,The patient does not have any chief complaint.,HISTORY OF PRESENT ILLNESS:,  This is a 93-year-old female who called up her next-door neighbor to say that she was not feeling well.  The next-door neighbor came over and decided that she should go to the emergency room to be check out for her generalized complaint of not feeling well.  The neighbor suspects that this may have been due to the patient taking too many of her Tylenol PM, which the patient has been known to do.  The patient was a little somnolent early this morning and was found only to be oriented x1 with EMS upon their arrival to the patient's house.  The patient states that she just simply felt funny and does not give any more specific details than this.  The patient denies any pain at any time.  She did not have any shortness of breath.  No nausea or vomiting.  No generalized weakness.  The patient states that all that has gone away since arrival here in the hospital, that she feels at her usual self, is not sure why she is here in the hospital, and thinks she should go.  The patient's primary care physician, Dr. X reports that the patient spoke with him yesterday and had complained of shortness of breath, nausea, dizziness, as well as generalized weakness, but the patient states that all this has resolved.  The patient was actually seen here two days ago for those same symptoms and was found to have exacerbation of her COPD and CHF.  The patient was discharged home after evaluation in the emergency room.  The patient does use home O2.,REVIEW OF SYSTEMS: , CONSTITUTIONAL:  The patient had complained of generalized fatigue and weakness two days ago in the emergency room and yesterday to her primary care physician.  The patient denies having any other symptoms today.  The patient denies any fever or chills.  Has not had any recent weight change.  HEENT:  The patient denies any headache.  No neck pain.  No rhinorrhea.  No sinus congestion.  No sore throat.  No any vision or hearing change.  No eye or ear pain.  CARDIOVASCULAR:  The patient denies any chest pain.  RESPIRATIONS:  No shortness of breath.  No cough.  No wheeze.  The patient did report having shortness of breath and wheeze with her presentation to the emergency room two days ago and shortness of breath to her primary care physician yesterday, but the patient states that all this has resolved.  GASTROINTESTINAL:  No abdominal pain.  No nausea or vomiting.  No change in the bowel movements.  There has not been any diarrhea or constipation.  No melena or hematochezia.  GENITOURINARY:  No dysuria, hematuria, urgency, or frequency.  MUSCULOSKELETAL:  No back pain.  No muscle or joint aches.  No pain or abnormalities to any portion of the body.  SKIN:  No rashes or lesions.  NEUROLOGIC:  The patient reported dizziness to her primary care physician yesterday over the phone, but the patient denies having any problems with dizziness over the past few days.  The patient denies any dizziness at this time.  No syncope or no near-syncope.  The patient denies any focal weakness or numbness.  No speech change.  No difficulty with ambulation.  The patient has not had any vision or hearing change.  PSYCHIATRIC:  The patient denies any depression.  ENDOCRINE:  No heat or cold intolerance.,PAST MEDICAL HISTORY:,  COPD, CHF, hypertension, migraines, previous history of depression, anxiety, diverticulitis, and atrial fibrillation.,PAST SURGICAL HISTORY:,  Placement of pacemaker and hysterectomy.,CURRENT MEDICATIONS: , The patient takes Tylenol PM for insomnia, Lasix, Coumadin, Norvasc, Lanoxin, Diovan, atenolol, and folic acid.,ALLERGIES:,  NO KNOWN DRUG ALLERGIES.,SOCIAL HISTORY: , The patient used to smoke, but quit approximately 30 years ago.  The patient denies any alcohol or drug use although her son reports that she has had a long history of this in the past and the patient has abused prescription medication in the past as well according to her son.,PHYSICAL EXAMINATION: , VITAL SIGNS:  Temperature 99.1 oral, blood pressure 139/65, pulse is 72, respirations 18, and oxygen saturation is 92% on room air and interpreted as low normal.  CONSTITUTIONAL:  The patient is well nourished and well developed.  The patient appears to be healthy.  The patient is calm, comfortable, in no acute distress, and looks well.  The patient is pleasant and cooperative.  HEENT:  Head is atraumatic, normocephalic, and nontender.  Eyes are normal with clear sclerae and cornea bilaterally.  Nose is normal without rhinorrhea or audible congestion.  Mouth and oropharynx are normal without any sign of infection.  Mucous membranes are moist.  NECK:  Supple and nontender.  Full range of motion.  There is no JVD.  No cervical lymphadenopathy.  No carotid artery or vertebral artery bruits.  CARDIOVASCULAR:  Heart is regular rate and rhythm without murmur, rub or gallop.  Peripheral pulses are +2.  The patient does have +1 bilateral lower extremity edema.  RESPIRATIONS:  The patient has coarse breath sounds bilaterally, but no dyspnea.  Good air movement.  No wheeze.  No crackles.  The patient speaks in full sentences without any difficulty.  The patient does not exhibit any retractions, accessory muscle use or abdominal breathing.  GASTROINTESTINAL:  Abdomen is soft, nontender, and nondistended.  No rebound or guarding.  No hepatosplenomegaly.  Normal bowel sounds.  No bruits, no mass, no pulsatile mass, and no inguinal lymphadenopathy.  MUSCULOSKELETAL:  No abnormalities noted to the back, arms or legs.  SKIN:  No rashes or lesions.  NEUROLOGICAL:  Cranial nerves II through XII are intact.  Motor is 5/5 and equal to bilateral arms and legs.  Sensory is intact to light touch.  The patient has normal speech and normal ambulation.  PSYCHIATRIC:  The patient is awake, alert, and oriented x3 although the patient first stated that the year was 1908, but did manage to correct herself up on addressing this with her.  The patient has normal mood and affect.  HEMATOLOGIC AND LYMPHATIC:  There is no evidence of lymphadenopathy.,EMERGENCY DEPARTMENT TESTING: , EKG is a rate of 72 with evidence of a pacemaker that has good capture.  There is no evidence of acute cardiac disease on the EKG and there is no apparent change in the EKG from 03/17/08.  CBC has no specific abnormalities of issue.  Chemistry has a BUN of 46 and creatinine of 2.25, glucose is 135, and an estimated GFR is 20.  The rest of the values are normal and unremarkable.  LFTs are all within normal limits.  Cardiac enzymes are all within normal limits.  Digoxin level is therapeutic at 1.6.  Chest x-ray noted cardiomegaly and evidence of congestive heart failure, but no acute change from her chest x-ray done two days ago.  CAT scan of the head did not identify any acute abnormalities.  I spoke with the patient's primary care physician, Dr. X who stated that he would be able to follow up with the patient within the next day.  I spoke with the patient's neighbor who contacted the ambulance service who stated that the patient just reported not feeling well and appeared to be a little somnolent and confused at the time, but suspected that she may have taken too many of her Tylenol PM as she often has done in the past.  The neighbor is XYZ and he says that he checks on her three times a day every day.  ABC is the patient's son and although he lives out of town he calls and checks on her every day as well.  He states that he spoke to her yesterday.  She sounded fine, did not express any other problems that she had apparently been in contact with her primary care physician.  She sounded her usual self to him.  Mr. ABC also spoke to the patient while she was here in the emergency room and she appears to be her usual self and has her normal baseline mental status to him.  He states that he will be able to check on her tomorrow as well.  Although it is of some concern that there may be problems with development of some early dementia, the patient is adamant about not going to a nursing home and has been placed in a Nursing Home in the past, but Dr. Y states that she has managed to be discharged after two previous nursing home placements.  The patient does have Home Health that checks on her as well as housing care in between the two services they share visits every single day  by them as well as the neighbor who checks on her three times a day and her son who calls her each day as well.  The patient although she lives alone, does appear to have good followup and the patient is adamant that she wishes to return home.,DIAGNOSES,1.  EARLY DEMENTIA.,2.",
+        "expected_output": {
+            "medications_extracted": [
+                "Tylenol PM",
+                "Lasix",
+                "Coumadin",
+                "Norvasc",
+                "Lanoxin",
+                "Diovan",
+                "atenolol",
+                "folic acid"
+            ],
+            "conditions": [
+                "COPD",
+                "CHF",
+                "hypertension",
+                "migraines",
+                "depression",
+                "anxiety",
+                "diverticulitis",
+                "atrial fibrillation",
+                "early dementia"
+            ],
+            "expected_ddi": [
+                {
+                    "drugs": [
+                        "Coumadin",
+                        "Tylenol PM"
+                    ]
+                },
+                {
+                    "drugs": [
+                        "Lanoxin",
+                        "Lasix"
+                    ]
+                },
+                {
+                    "drugs": [
+                        "atenolol",
+                        "Lanoxin"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "case_id": "SILVER-048",
+        "description": "Neurology",
+        "raw_text": "DISCHARGE DIAGNOSES:,1.  Bilateral lower extremity cellulitis secondary to bilateral tinea pedis.,2.  Prostatic hypertrophy with bladder outlet obstruction.,3.  Cerebral palsy.,DISCHARGE INSTRUCTIONS: , The patient would be discharged on his usual Valium 10-20 mg at bedtime for spasticity, Flomax 0.4 mg daily, cefazolin 500 mg q.i.d., and Lotrimin cream between toes b.i.d. for an additional two weeks.  He will be followed in the office.,HISTORY OF PRESENT ILLNESS:,  This is a pleasant 62-year-old male with cerebral palsy.  The patient was recently admitted to Hospital with lower extremity cellulitis.  This resolved, however, recurred in both legs.  Examination at the time of this admission demonstrated peeling of the skin and excoriation between all of his toes on both feet consistent with tinea pedis.,PAST MEDICAL/FAMILY/SOCIAL HISTORY:,  As per the admission record.,REVIEW OF SYSTEMS: , As per the admission record.,PHYSICAL EXAMINATION:  ,As per the admission record.,LABORATORY STUDIES: , At the time of admission, his white blood cell count was 8200 with a normal differential, hemoglobin 13.6, hematocrit 40.6 with normal indices, and platelet count was 250,000.  Comprehensive metabolic profile was unremarkable, except for a nonfasting blood sugar of 137, lactic acid was 0.8.  Urine demonstrated 4-9 red blood cells per high-powered field with 2+ bacteria.  Blood culture and wound cultures were unremarkable.  Chest x-ray was unremarkable.,HOSPITAL COURSE: , The patient was admitted to the General Medical floor and treated with intravenous ceftriaxone and topical Lotrimin.  On this regimen, his lower extremity edema and erythema resolved quite rapidly.,Because of urinary frequency, a bladder scan was done suggesting about 600 cc of residual urine.  A Foley catheter was inserted and was productive of approximately 500 cc of urine.  The patient was prescribed Flomax 0.4 mg daily.  24 hours later, the Foley catheter was removed and a bladder scan demonstrated 60 cc of residual urine after approximately eight hours.,At the time of this dictation, the patient was ambulating minimally, however, not sufficiently to resume independent living.",
+        "expected_output": {
+            "medications_extracted": [
+                "Valium",
+                "Flomax",
+                "cefazolin",
+                "Lotrimin",
+                "ceftriaxone"
+            ],
+            "conditions": [
+                "Bilateral lower extremity cellulitis",
+                "Bilateral tinea pedis",
+                "Prostatic hypertrophy",
+                "Bladder outlet obstruction",
+                "Cerebral palsy"
+            ],
+            "expected_ddi": [
+                {
+                    "drugs": [
+                        "Valium",
+                        "Flomax"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "case_id": "SILVER-049",
+        "description": "Endocrinology",
+        "raw_text": "PREOPERATIVE DIAGNOSES: , Papillary carcinoma of the follicular variant of the thyroid in the right lobe, status post right hemithyroidectomy.,POSTOPERATIVE DIAGNOSES: , Papillary carcinoma of the follicular variant of the thyroid in the right lobe, status post right hemithyroidectomy.,PROCEDURE:  ,The patient with left completion hemithyroidectomy and reimplantation of the left parathyroid and left sternocleidomastoid region in the inferior 1/3rd region.,FINDINGS: , Normal-appearing thyroid gland with a possible lump in the inferior aspect, there was a parathyroid gland that by frozen section _________  was not thyroid, it was reimplanted to the left lower sternocleidomastoid region.,ESTIMATED BLOOD LOSS:  ,Approximately 10 mL.,FLUIDS: , Crystalloid only.,COMPLICATIONS: , None.,DRAINS: , Rubber band drain in the neck.,CONDITION:,  Stable.,PROCEDURE:  ,The patient placed supine under general anesthesia.  First, a shoulder roll was placed, 1% lidocaine and 1:100,000 epinephrine was injected into the old scar, natural skin fold, and Betadine prep.  Sterile dressing was placed.  The laryngeal monitoring was noted to be working fine.  Then, an incision was made in this area in a curvilinear fashion through the old scar, taken through the fat and the platysma level.  The strap muscles were found and there was scar tissue along the trachea and the strap muscles were elevated off of the left thyroid, the thyroid gland was then found.  Then, using bipolar cautery and a Coblation dissector, the thyroid gland inferiorly was dissected off and the parathyroid gland was left inferiorly and there was scar tissue that was released and laterally, the thyroid gland was released, then came into the Berry ligaments.  The Berry ligament was dissected off and the gland came off all the way to the superior and inferior thyroid vessels, which were crossed with the Harmonic scalpel and removed.  No bleeding was seen.  There was a small nick in the external jugular vein that was tied with a 4-0 Vicryl suture ligature.  After this was completed, on examining the specimen, there appeared to be a lobule on it and it was sent off as possibly parathyroid, therefore it was reimplanted in the left lower sternocleidomastoid region using the silk suture ligature.  After this was completed, no bleeding was seen.  The laryngeal nerve could be seen and intact and then Rubber band  drain was placed throughout the neck along the thyroid bed and 4-0 Vicryl was used to close the strap muscles in an interrupted fashion along with the platysma region and subcutaneous region and a running 5-0 nylon was used to close the skin and Mastisol and Steri-Strips were placed along the skin edges and then on awakening, both laryngeal nerves were working normally.  Procedure was then terminated at that time.",
+        "expected_output": {
+            "medications_extracted": [
+                "lidocaine",
+                "epinephrine"
+            ],
+            "conditions": [
+                "Papillary carcinoma of the follicular variant of the thyroid"
+            ],
+            "expected_ddi": [
+                {
+                    "drugs": [
+                        "lidocaine",
+                        "epinephrine"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "case_id": "SILVER-050",
+        "description": "Surgery",
+        "raw_text": "PREOPERATIVE DIAGNOSIS: , Rotator cuff tear, right shoulder.,POSTOPERATIVE DIAGNOSIS: , Superior labrum anterior and posterior lesion (peel-back), right shoulder.,PROCEDURE PERFORMED:,1.  Arthroscopy with arthroscopic SLAP lesion.,2.  Repair of soft tissue subacromial decompression rotator cuff repair, right shoulder.,SPECIFICATIONS: , The entire operative procedure was done in Inpatient Operating Suite, room #1 at ABCD General Hospital.  This was done under a interscalene block anesthetic and subsequent general anesthetic in the modified beachchair position.,HISTORY AND GROSS FINDINGS:  ,This is a 54-year-old white female suffering an increasing right shoulder pain for a few months prior to surgical intervention.  She had an injury to her right shoulder when she fell off a bike.  She was diagnosed preoperatively with a rotated cuff tear.,Intra-articularly besides we noted a large SLAP lesion, superior and posterior to the attachment of the glenoid labrum from approximately 12:30 back to 10:30.  This acted as a peel-back type of mechanism and was displaced into the joint beyond the superior rim of the glenoid.  This was an obvious avulsion into subchondral bone with bone exposed.  The anterior aspect had degenerative changes, but did not have evidence of avulsion.  The subscapular was noted to be intact.  On the joint side of the supraspinatus, there was noted to be a laminated type of tearing to the rotated cuff to the anterior and mid-aspect of the supraspinatus attachment.,This was confirmed subacromially.  The patient had a type-I plus acromion in outlet view and thus it was elected to not perform a subacromial decompression, but soft tissue release of the CA ligament in a releasing resection type fashion.,OPERATIVE PROCEDURE: , The patient was placed supine upon the operative table after she was given interscalene and then general anesthesia by the Anesthesia Department.  She was safely placed in a modified beachchair position.  She was prepped and draped in the usual sterile manner.  The portals were created from outside the ends, posterior to the scope and anteriorly for an intraoperative portal and then laterally.  She had at least two other portals appropriate for both repair mechanisms described above.,Attention was then turned to the SLAP lesion.  The edges were debrided both on the bony side as well as soft tissue side.  We used the anterior portal to lift up the mechanism and created a superolateral portal through the rotator cuff and into the edge of the labrum.  Further debridement was carried out here.  A drill hole was made just on the articular surface superiorly for a knotless anchor.  A pull-through suture of #2 fiber wire was utilized with the ________.  This was pulled through.  It was tied to the leader suture of the knotless anchor.  This was pulled through and one limb of the anchor loop was grabbed and the anchor impacted with a mallet.  There was excellent fixation of the superior labrum.  It was noted to be solid and intact.  The anchor was placed safely in the bone.  There was no room for further knotless or other anchors.  After probing was carried out, hard copy Polaroid was obtained.,Attention was then turned to the articular side for the rotator cuff.  It was debrided.  Subchondral debridement was carried out to the tuberosity also.  Care was taken to go to the subchondral region but not beyond.  The bone was satisfactory.,Scope was then placed in the subacromial region.  Gross bursectomy was carried out with in the lateral portal.  This was done throughout as well as in the gutters anterolaterally and posteriorly.  Debridement was carried out further to the rotator cuff.  Two types of fixation were carried out, one with a superolateral portal a drill hole was made and anchor of the _knotless suture placed after PDS leader suture placed with a Caspari punch.  There was an excellent reduction of the tear posteriorly and then anteriorly.  Tendon to tendon repair was accomplished by placing a fiber wire across the tendon and tying sutured down through the anterolateral portal.  This was done with a sliding stitch and then two half stitches.  There was excellent reduction of the tear.,Attention was then turned to the CA ligament.  It was released along with periosteum and the undersurface of the anterior acromion.  The CA ligament was not only released but resected.  There was noted to be no evidence of significant spurring with only a mostly type-I acromion.  Thus, it was not elected to perform subacromial decompression for bone with soft tissue only.  A pain buster catheter was placed separately.  It was cut to length.  An interrupted #4-0 nylon was utilized for portal closure.  A 0.5% Marcaine was instilled subacromially.  Adaptic, 4x4s, ABDs, and Elastoplast tape placed for dressing.  The patient's arm was placed in a arm sling.  She was transferred to PACU in apparent satisfactory condition.  Expected surgical prognosis on this patient is fair.",
+        "expected_output": {
+            "medications_extracted": [
+                "PDS",
+                "Marcaine"
+            ],
+            "conditions": [
+                "Rotator cuff tear",
+                "Superior labrum anterior and posterior lesion",
+                "SLAP lesion"
+            ],
+            "expected_ddi": []
+        }
+    }
+]
